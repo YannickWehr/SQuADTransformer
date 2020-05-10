@@ -6,7 +6,7 @@ import loader
 #Dataset structure:
 #[Topic1, Topic2, ...] --> {title, paragraphs: [Paragraph1, Paragraph2, ...]} --> {qas:[{question, id, answers: [{text, answer_start}], is_impossible}], context}
 squad_loader = loader.Loader()
-squad_loader.load_we_from_file(path="./glove6B300d.txt")
+squad_loader.load_we_from_file(path="./glove.6B.50d.txt")
 print("SQuAD Data and Word Embeddings imported...")
 
 def encode(question, answer, context):
@@ -52,7 +52,7 @@ def my_transformer(mode):
   return trax.models.Transformer(input_vocab_size=400000, d_model=300, mode=mode, n_heads=5)
 
 def my_transformerlm(mode):
-  return trax.models.TransformerLM(vocab_size=400000, d_model=300, n_heads=5, mode=mode, n_layers=4)
+  return trax.models.TransformerLM(vocab_size=25000, d_model=300, n_heads=5, mode=mode, n_layers=4)
 
 
 output_dir = os.path.expanduser('~/train_dir/')
@@ -67,9 +67,9 @@ trainer = trax.supervised.Trainer(
 print("Model created...")
 
 
-# print("Starting Traning...")
-# for _ in range(30):
-#   trainer.train_epoch(n_steps=10, n_eval_steps=1)
+print("Starting Traning...")
+for _ in range(10):
+  trainer.train_epoch(n_steps=10, n_eval_steps=1)
 
 # print("Staring Evaluation...")
 # trainer.evaluate(10)
