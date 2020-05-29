@@ -1,9 +1,9 @@
 import matplotlib.pyplot as plt
 
-def accuracy_graph(path):
+def accuracy_graph(path, start=2):
     f = open(path)
     text = f.readlines()
-    text = text[2:]
+    text = text[start:]
     acc = []
     for i in range(len(text)):
         if i % 14 == 0:
@@ -21,3 +21,9 @@ def moving_average(numbers, window_size=3):
         i += 1
     return moving_averages
 
+
+reformer = moving_average(accuracy_graph("./rfull.txt"))
+reformer_eval = moving_average(accuracy_graph("./rfull.txt", start=7))
+plt.plot(reformer)
+plt.plot(reformer_eval)
+plt.show()
