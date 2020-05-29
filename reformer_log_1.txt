@@ -1,0 +1,2799 @@
+Step    200: Ran 200 train steps in 253.16 secs
+Step    200: Evaluation
+Step    200: train                   accuracy |  0.11085182
+Step    200: train                       loss |  6.84003592
+Step    200: train         neg_log_perplexity | -6.84003592
+Step    200: train          sequence_accuracy |  0.00000000
+Step    200: train weights_per_batch_per_core |  103.16249847
+Step    200: eval                    accuracy |  0.03373961
+Step    200: eval                        loss |  8.86953545
+Step    200: eval          neg_log_perplexity | -8.86953545
+Step    200: eval           sequence_accuracy |  0.00000000
+Step    200: eval  weights_per_batch_per_core |  41.53750229
+Step    200: Finished evaluation
+
+Step    400: Ran 200 train steps in 50.17 secs
+Step    400: Evaluation
+Step    400: train                   accuracy |  0.12316554
+Step    400: train                       loss |  6.54573059
+Step    400: train         neg_log_perplexity | -6.54573059
+Step    400: train          sequence_accuracy |  0.00000000
+Step    400: train weights_per_batch_per_core |  102.42500305
+Step    400: eval                    accuracy |  0.02377282
+Step    400: eval                        loss |  9.04827881
+Step    400: eval          neg_log_perplexity | -9.04827881
+Step    400: eval           sequence_accuracy |  0.00000000
+Step    400: eval  weights_per_batch_per_core |  41.87500000
+Step    400: Finished evaluation
+
+Step    600: Ran 200 train steps in 49.04 secs
+Step    600: Evaluation
+Step    600: train                   accuracy |  0.11778275
+Step    600: train                       loss |  6.60462046
+Step    600: train         neg_log_perplexity | -6.60462046
+Step    600: train          sequence_accuracy |  0.00000000
+Step    600: train weights_per_batch_per_core |  89.31250000
+Step    600: eval                    accuracy |  0.03352904
+Step    600: eval                        loss |  9.31724739
+Step    600: eval          neg_log_perplexity | -9.31724739
+Step    600: eval           sequence_accuracy |  0.00000000
+Step    600: eval  weights_per_batch_per_core |  43.71250153
+Step    600: Finished evaluation
+
+Step    800: Ran 200 train steps in 81.97 secs
+Step    800: Evaluation
+Step    800: train                   accuracy |  0.13522175
+Step    800: train                       loss |  6.46474218
+Step    800: train         neg_log_perplexity | -6.46474218
+Step    800: train          sequence_accuracy |  0.00000000
+Step    800: train weights_per_batch_per_core |  100.18750000
+Step    800: eval                    accuracy |  0.02968737
+Step    800: eval                        loss |  9.09102345
+Step    800: eval          neg_log_perplexity | -9.09102345
+Step    800: eval           sequence_accuracy |  0.00000000
+Step    800: eval  weights_per_batch_per_core |  43.56250000
+Step    800: Finished evaluation
+
+Step   1000: Ran 200 train steps in 51.00 secs
+Step   1000: Evaluation
+Step   1000: train                   accuracy |  0.15375464
+Step   1000: train                       loss |  6.13581371
+Step   1000: train         neg_log_perplexity | -6.13581371
+Step   1000: train          sequence_accuracy |  0.00000000
+Step   1000: train weights_per_batch_per_core |  98.18750000
+Step   1000: eval                    accuracy |  0.05895872
+Step   1000: eval                        loss |  8.60913467
+Step   1000: eval          neg_log_perplexity | -8.60913467
+Step   1000: eval           sequence_accuracy |  0.00000000
+Step   1000: eval  weights_per_batch_per_core |  54.40000153
+Step   1000: Finished evaluation
+
+Step   1200: Ran 200 train steps in 50.71 secs
+Step   1200: Evaluation
+Step   1200: train                   accuracy |  0.16345300
+Step   1200: train                       loss |  6.09323359
+Step   1200: train         neg_log_perplexity | -6.09323359
+Step   1200: train          sequence_accuracy |  0.00000000
+Step   1200: train weights_per_batch_per_core |  98.97499847
+Step   1200: eval                    accuracy |  0.06109840
+Step   1200: eval                        loss |  8.85777187
+Step   1200: eval          neg_log_perplexity | -8.85777187
+Step   1200: eval           sequence_accuracy |  0.00000000
+Step   1200: eval  weights_per_batch_per_core |  53.40000153
+Step   1200: Finished evaluation
+
+Step   1400: Ran 200 train steps in 51.69 secs
+Step   1400: Evaluation
+Step   1400: train                   accuracy |  0.17758536
+Step   1400: train                       loss |  5.90539455
+Step   1400: train         neg_log_perplexity | -5.90539455
+Step   1400: train          sequence_accuracy |  0.00000000
+Step   1400: train weights_per_batch_per_core |  108.87500000
+Step   1400: eval                    accuracy |  0.06841930
+Step   1400: eval                        loss |  8.62397766
+Step   1400: eval          neg_log_perplexity | -8.62397766
+Step   1400: eval           sequence_accuracy |  0.00000000
+Step   1400: eval  weights_per_batch_per_core |  57.22500229
+Step   1400: Finished evaluation
+
+Step   1600: Ran 200 train steps in 51.04 secs
+Step   1600: Evaluation
+Step   1600: train                   accuracy |  0.17937329
+Step   1600: train                       loss |  5.83129597
+Step   1600: train         neg_log_perplexity | -5.83129597
+Step   1600: train          sequence_accuracy |  0.00000000
+Step   1600: train weights_per_batch_per_core |  86.45000458
+Step   1600: eval                    accuracy |  0.07287158
+Step   1600: eval                        loss |  8.35036755
+Step   1600: eval          neg_log_perplexity | -8.35036755
+Step   1600: eval           sequence_accuracy |  0.00000000
+Step   1600: eval  weights_per_batch_per_core |  54.63750076
+Step   1600: Finished evaluation
+
+Step   1800: Ran 200 train steps in 51.26 secs
+Step   1800: Evaluation
+Step   1800: train                   accuracy |  0.18462043
+Step   1800: train                       loss |  5.75475168
+Step   1800: train         neg_log_perplexity | -5.75475168
+Step   1800: train          sequence_accuracy |  0.00000000
+Step   1800: train weights_per_batch_per_core |  125.91249847
+Step   1800: eval                    accuracy |  0.08015383
+Step   1800: eval                        loss |  8.29792976
+Step   1800: eval          neg_log_perplexity | -8.29792976
+Step   1800: eval           sequence_accuracy |  0.00000000
+Step   1800: eval  weights_per_batch_per_core |  54.70000076
+Step   1800: Finished evaluation
+
+Step   2000: Ran 200 train steps in 50.29 secs
+Step   2000: Evaluation
+Step   2000: train                   accuracy |  0.18228140
+Step   2000: train                       loss |  5.73741579
+Step   2000: train         neg_log_perplexity | -5.73741579
+Step   2000: train          sequence_accuracy |  0.00000000
+Step   2000: train weights_per_batch_per_core |  116.06250000
+Step   2000: eval                    accuracy |  0.11271150
+Step   2000: eval                        loss |  7.79128647
+Step   2000: eval          neg_log_perplexity | -7.79128647
+Step   2000: eval           sequence_accuracy |  0.00000000
+Step   2000: eval  weights_per_batch_per_core |  63.61249924
+Step   2000: Finished evaluation
+
+Step   2200: Ran 200 train steps in 52.13 secs
+Step   2200: Evaluation
+Step   2200: train                   accuracy |  0.18770362
+Step   2200: train                       loss |  5.68979740
+Step   2200: train         neg_log_perplexity | -5.68979740
+Step   2200: train          sequence_accuracy |  0.00000000
+Step   2200: train weights_per_batch_per_core |  104.09999847
+Step   2200: eval                    accuracy |  0.09740490
+Step   2200: eval                        loss |  7.91920471
+Step   2200: eval          neg_log_perplexity | -7.91920471
+Step   2200: eval           sequence_accuracy |  0.00000000
+Step   2200: eval  weights_per_batch_per_core |  61.01250076
+Step   2200: Finished evaluation
+
+Step   2400: Ran 200 train steps in 49.91 secs
+Step   2400: Evaluation
+Step   2400: train                   accuracy |  0.18198560
+Step   2400: train                       loss |  5.72239828
+Step   2400: train         neg_log_perplexity | -5.72239828
+Step   2400: train          sequence_accuracy |  0.00000000
+Step   2400: train weights_per_batch_per_core |  85.77500153
+Step   2400: eval                    accuracy |  0.14040765
+Step   2400: eval                        loss |  7.25751257
+Step   2400: eval          neg_log_perplexity | -7.25751257
+Step   2400: eval           sequence_accuracy |  0.00000000
+Step   2400: eval  weights_per_batch_per_core |  67.16249847
+Step   2400: Finished evaluation
+
+Step   2600: Ran 200 train steps in 48.50 secs
+Step   2600: Evaluation
+Step   2600: train                   accuracy |  0.19621979
+Step   2600: train                       loss |  5.52310276
+Step   2600: train         neg_log_perplexity | -5.52310276
+Step   2600: train          sequence_accuracy |  0.00000000
+Step   2600: train weights_per_batch_per_core |  123.36250305
+Step   2600: eval                    accuracy |  0.12548620
+Step   2600: eval                        loss |  7.51035023
+Step   2600: eval          neg_log_perplexity | -7.51035023
+Step   2600: eval           sequence_accuracy |  0.00000000
+Step   2600: eval  weights_per_batch_per_core |  66.32500458
+Step   2600: Finished evaluation
+
+Step   2800: Ran 200 train steps in 47.75 secs
+Step   2800: Evaluation
+Step   2800: train                   accuracy |  0.20055015
+Step   2800: train                       loss |  5.48609304
+Step   2800: train         neg_log_perplexity | -5.48609304
+Step   2800: train          sequence_accuracy |  0.00000000
+Step   2800: train weights_per_batch_per_core |  98.70000458
+Step   2800: eval                    accuracy |  0.14528008
+Step   2800: eval                        loss |  6.98021841
+Step   2800: eval          neg_log_perplexity | -6.98021841
+Step   2800: eval           sequence_accuracy |  0.00000000
+Step   2800: eval  weights_per_batch_per_core |  68.98750305
+Step   2800: Finished evaluation
+
+Step   3000: Ran 200 train steps in 47.49 secs
+Step   3000: Evaluation
+Step   3000: train                   accuracy |  0.18742608
+Step   3000: train                       loss |  5.53030396
+Step   3000: train         neg_log_perplexity | -5.53030396
+Step   3000: train          sequence_accuracy |  0.00000000
+Step   3000: train weights_per_batch_per_core |  104.00000000
+Step   3000: eval                    accuracy |  0.12993430
+Step   3000: eval                        loss |  7.29531193
+Step   3000: eval          neg_log_perplexity | -7.29531193
+Step   3000: eval           sequence_accuracy |  0.00000000
+Step   3000: eval  weights_per_batch_per_core |  63.95000076
+Step   3000: Finished evaluation
+
+Step   3200: Ran 200 train steps in 47.06 secs
+Step   3200: Evaluation
+Step   3200: train                   accuracy |  0.19700550
+Step   3200: train                       loss |  5.44435930
+Step   3200: train         neg_log_perplexity | -5.44435930
+Step   3200: train          sequence_accuracy |  0.00000000
+Step   3200: train weights_per_batch_per_core |  90.78749847
+Step   3200: eval                    accuracy |  0.16686945
+Step   3200: eval                        loss |  6.50739670
+Step   3200: eval          neg_log_perplexity | -6.50739670
+Step   3200: eval           sequence_accuracy |  0.00000000
+Step   3200: eval  weights_per_batch_per_core |  70.83750153
+Step   3200: Finished evaluation
+
+Step   3400: Ran 200 train steps in 47.63 secs
+Step   3400: Evaluation
+Step   3400: train                   accuracy |  0.20035784
+Step   3400: train                       loss |  5.36901188
+Step   3400: train         neg_log_perplexity | -5.36901188
+Step   3400: train          sequence_accuracy |  0.00000000
+Step   3400: train weights_per_batch_per_core |  113.36250305
+Step   3400: eval                    accuracy |  0.14454047
+Step   3400: eval                        loss |  6.90280533
+Step   3400: eval          neg_log_perplexity | -6.90280533
+Step   3400: eval           sequence_accuracy |  0.00000000
+Step   3400: eval  weights_per_batch_per_core |  71.18750000
+Step   3400: Finished evaluation
+
+Step   3600: Ran 200 train steps in 49.76 secs
+Step   3600: Evaluation
+Step   3600: train                   accuracy |  0.20485286
+Step   3600: train                       loss |  5.36842299
+Step   3600: train         neg_log_perplexity | -5.36842299
+Step   3600: train          sequence_accuracy |  0.00000000
+Step   3600: train weights_per_batch_per_core |  98.13750458
+Step   3600: eval                    accuracy |  0.15712522
+Step   3600: eval                        loss |  6.73659611
+Step   3600: eval          neg_log_perplexity | -6.73659611
+Step   3600: eval           sequence_accuracy |  0.00000000
+Step   3600: eval  weights_per_batch_per_core |  67.01250458
+Step   3600: Finished evaluation
+
+Step   3800: Ran 200 train steps in 48.09 secs
+Step   3800: Evaluation
+Step   3800: train                   accuracy |  0.21478997
+Step   3800: train                       loss |  5.21564865
+Step   3800: train         neg_log_perplexity | -5.21564865
+Step   3800: train          sequence_accuracy |  0.00000000
+Step   3800: train weights_per_batch_per_core |  106.26250458
+Step   3800: eval                    accuracy |  0.15778257
+Step   3800: eval                        loss |  6.68749857
+Step   3800: eval          neg_log_perplexity | -6.68749857
+Step   3800: eval           sequence_accuracy |  0.00000000
+Step   3800: eval  weights_per_batch_per_core |  70.51250458
+Step   3800: Finished evaluation
+
+Step   4000: Ran 200 train steps in 49.41 secs
+Step   4000: Evaluation
+Step   4000: train                   accuracy |  0.20557125
+Step   4000: train                       loss |  5.40650034
+Step   4000: train         neg_log_perplexity | -5.40650034
+Step   4000: train          sequence_accuracy |  0.00000000
+Step   4000: train weights_per_batch_per_core |  106.62500000
+Step   4000: eval                    accuracy |  0.19921429
+Step   4000: eval                        loss |  5.92652130
+Step   4000: eval          neg_log_perplexity | -5.92652130
+Step   4000: eval           sequence_accuracy |  0.00000000
+Step   4000: eval  weights_per_batch_per_core |  75.20000458
+Step   4000: Finished evaluation
+
+Step   4200: Ran 200 train steps in 50.98 secs
+Step   4200: Evaluation
+Step   4200: train                   accuracy |  0.19875106
+Step   4200: train                       loss |  5.40920734
+Step   4200: train         neg_log_perplexity | -5.40920734
+Step   4200: train          sequence_accuracy |  0.00000000
+Step   4200: train weights_per_batch_per_core |  103.20000458
+Step   4200: eval                    accuracy |  0.18507440
+Step   4200: eval                        loss |  6.32126236
+Step   4200: eval          neg_log_perplexity | -6.32126236
+Step   4200: eval           sequence_accuracy |  0.00000000
+Step   4200: eval  weights_per_batch_per_core |  75.02500153
+Step   4200: Finished evaluation
+
+Step   4400: Ran 200 train steps in 54.16 secs
+Step   4400: Evaluation
+Step   4400: train                   accuracy |  0.20933329
+Step   4400: train                       loss |  5.28865051
+Step   4400: train         neg_log_perplexity | -5.28865051
+Step   4400: train          sequence_accuracy |  0.00000000
+Step   4400: train weights_per_batch_per_core |  94.95000458
+Step   4400: eval                    accuracy |  0.19097885
+Step   4400: eval                        loss |  6.02908278
+Step   4400: eval          neg_log_perplexity | -6.02908278
+Step   4400: eval           sequence_accuracy |  0.00000000
+Step   4400: eval  weights_per_batch_per_core |  78.76250458
+Step   4400: Finished evaluation
+
+Step   4600: Ran 200 train steps in 52.40 secs
+Step   4600: Evaluation
+Step   4600: train                   accuracy |  0.21102917
+Step   4600: train                       loss |  5.25486803
+Step   4600: train         neg_log_perplexity | -5.25486803
+Step   4600: train          sequence_accuracy |  0.00000000
+Step   4600: train weights_per_batch_per_core |  97.56250000
+Step   4600: eval                    accuracy |  0.18416807
+Step   4600: eval                        loss |  6.36456013
+Step   4600: eval          neg_log_perplexity | -6.36456013
+Step   4600: eval           sequence_accuracy |  0.00000000
+Step   4600: eval  weights_per_batch_per_core |  74.06250000
+Step   4600: Finished evaluation
+
+Step   4800: Ran 200 train steps in 51.93 secs
+Step   4800: Evaluation
+Step   4800: train                   accuracy |  0.21086493
+Step   4800: train                       loss |  5.22319412
+Step   4800: train         neg_log_perplexity | -5.22319412
+Step   4800: train          sequence_accuracy |  0.00000000
+Step   4800: train weights_per_batch_per_core |  88.59999847
+Step   4800: eval                    accuracy |  0.19958344
+Step   4800: eval                        loss |  5.93479395
+Step   4800: eval          neg_log_perplexity | -5.93479395
+Step   4800: eval           sequence_accuracy |  0.00000000
+Step   4800: eval  weights_per_batch_per_core |  72.91249847
+Step   4800: Finished evaluation
+
+Step   5000: Ran 200 train steps in 51.85 secs
+Step   5000: Evaluation
+Step   5000: train                   accuracy |  0.20454679
+Step   5000: train                       loss |  5.29223108
+Step   5000: train         neg_log_perplexity | -5.29223108
+Step   5000: train          sequence_accuracy |  0.00000000
+Step   5000: train weights_per_batch_per_core |  100.26250458
+Step   5000: eval                    accuracy |  0.18576787
+Step   5000: eval                        loss |  6.16093016
+Step   5000: eval          neg_log_perplexity | -6.16093016
+Step   5000: eval           sequence_accuracy |  0.00000000
+Step   5000: eval  weights_per_batch_per_core |  70.65000153
+Step   5000: Finished evaluation
+
+Step   5200: Ran 200 train steps in 52.30 secs
+Step   5200: Evaluation
+Step   5200: train                   accuracy |  0.20442617
+Step   5200: train                       loss |  5.32465029
+Step   5200: train         neg_log_perplexity | -5.32465029
+Step   5200: train          sequence_accuracy |  0.00000000
+Step   5200: train weights_per_batch_per_core |  105.38750458
+Step   5200: eval                    accuracy |  0.18950658
+Step   5200: eval                        loss |  6.07203341
+Step   5200: eval          neg_log_perplexity | -6.07203341
+Step   5200: eval           sequence_accuracy |  0.00000000
+Step   5200: eval  weights_per_batch_per_core |  74.86250305
+Step   5200: Finished evaluation
+
+Step   5400: Ran 200 train steps in 51.86 secs
+Step   5400: Evaluation
+Step   5400: train                   accuracy |  0.21390967
+Step   5400: train                       loss |  5.20820284
+Step   5400: train         neg_log_perplexity | -5.20820284
+Step   5400: train          sequence_accuracy |  0.00000000
+Step   5400: train weights_per_batch_per_core |  106.47499847
+Step   5400: eval                    accuracy |  0.18941911
+Step   5400: eval                        loss |  5.91267872
+Step   5400: eval          neg_log_perplexity | -5.91267872
+Step   5400: eval           sequence_accuracy |  0.00000000
+Step   5400: eval  weights_per_batch_per_core |  70.71250153
+Step   5400: Finished evaluation
+
+Step   5600: Ran 200 train steps in 51.54 secs
+Step   5600: Evaluation
+Step   5600: train                   accuracy |  0.21739362
+Step   5600: train                       loss |  5.24623489
+Step   5600: train         neg_log_perplexity | -5.24623489
+Step   5600: train          sequence_accuracy |  0.00000000
+Step   5600: train weights_per_batch_per_core |  101.75000000
+Step   5600: eval                    accuracy |  0.20396033
+Step   5600: eval                        loss |  5.62903309
+Step   5600: eval          neg_log_perplexity | -5.62903309
+Step   5600: eval           sequence_accuracy |  0.00000000
+Step   5600: eval  weights_per_batch_per_core |  78.71250153
+Step   5600: Finished evaluation
+
+Step   5800: Ran 200 train steps in 50.83 secs
+Step   5800: Evaluation
+Step   5800: train                   accuracy |  0.21846507
+Step   5800: train                       loss |  5.17909384
+Step   5800: train         neg_log_perplexity | -5.17909384
+Step   5800: train          sequence_accuracy |  0.00000000
+Step   5800: train weights_per_batch_per_core |  126.86250305
+Step   5800: eval                    accuracy |  0.19958062
+Step   5800: eval                        loss |  5.90201521
+Step   5800: eval          neg_log_perplexity | -5.90201521
+Step   5800: eval           sequence_accuracy |  0.00000000
+Step   5800: eval  weights_per_batch_per_core |  72.62500000
+Step   5800: Finished evaluation
+
+Step   6000: Ran 200 train steps in 50.61 secs
+Step   6000: Evaluation
+Step   6000: train                   accuracy |  0.22342558
+Step   6000: train                       loss |  5.05885410
+Step   6000: train         neg_log_perplexity | -5.05885410
+Step   6000: train          sequence_accuracy |  0.00000000
+Step   6000: train weights_per_batch_per_core |  95.13750458
+Step   6000: eval                    accuracy |  0.20793293
+Step   6000: eval                        loss |  5.69268179
+Step   6000: eval          neg_log_perplexity | -5.69268179
+Step   6000: eval           sequence_accuracy |  0.00000000
+Step   6000: eval  weights_per_batch_per_core |  75.48750305
+Step   6000: Finished evaluation
+
+Step   6200: Ran 200 train steps in 50.34 secs
+Step   6200: Evaluation
+Step   6200: train                   accuracy |  0.22202067
+Step   6200: train                       loss |  5.13255882
+Step   6200: train         neg_log_perplexity | -5.13255882
+Step   6200: train          sequence_accuracy |  0.00000000
+Step   6200: train weights_per_batch_per_core |  105.43750000
+Step   6200: eval                    accuracy |  0.20280933
+Step   6200: eval                        loss |  5.71868515
+Step   6200: eval          neg_log_perplexity | -5.71868515
+Step   6200: eval           sequence_accuracy |  0.00000000
+Step   6200: eval  weights_per_batch_per_core |  75.58750153
+Step   6200: Finished evaluation
+
+Step   6400: Ran 200 train steps in 52.41 secs
+Step   6400: Evaluation
+Step   6400: train                   accuracy |  0.21785231
+Step   6400: train                       loss |  5.09319019
+Step   6400: train         neg_log_perplexity | -5.09319019
+Step   6400: train          sequence_accuracy |  0.00000000
+Step   6400: train weights_per_batch_per_core |  104.37500000
+Step   6400: eval                    accuracy |  0.21620201
+Step   6400: eval                        loss |  5.59534025
+Step   6400: eval          neg_log_perplexity | -5.59534025
+Step   6400: eval           sequence_accuracy |  0.00000000
+Step   6400: eval  weights_per_batch_per_core |  77.90000153
+Step   6400: Finished evaluation
+
+Step   6600: Ran 200 train steps in 51.04 secs
+Step   6600: Evaluation
+Step   6600: train                   accuracy |  0.21855961
+Step   6600: train                       loss |  5.03215790
+Step   6600: train         neg_log_perplexity | -5.03215790
+Step   6600: train          sequence_accuracy |  0.00000000
+Step   6600: train weights_per_batch_per_core |  106.83750153
+Step   6600: eval                    accuracy |  0.22797552
+Step   6600: eval                        loss |  5.31700182
+Step   6600: eval          neg_log_perplexity | -5.31700182
+Step   6600: eval           sequence_accuracy |  0.00000000
+Step   6600: eval  weights_per_batch_per_core |  75.03749847
+Step   6600: Finished evaluation
+
+Step   6800: Ran 200 train steps in 51.63 secs
+Step   6800: Evaluation
+Step   6800: train                   accuracy |  0.22025578
+Step   6800: train                       loss |  5.12004423
+Step   6800: train         neg_log_perplexity | -5.12004423
+Step   6800: train          sequence_accuracy |  0.00000000
+Step   6800: train weights_per_batch_per_core |  96.02500153
+Step   6800: eval                    accuracy |  0.23022030
+Step   6800: eval                        loss |  5.36428785
+Step   6800: eval          neg_log_perplexity | -5.36428785
+Step   6800: eval           sequence_accuracy |  0.00000000
+Step   6800: eval  weights_per_batch_per_core |  77.40000153
+Step   6800: Finished evaluation
+
+Step   7000: Ran 200 train steps in 51.58 secs
+Step   7000: Evaluation
+Step   7000: train                   accuracy |  0.22729211
+Step   7000: train                       loss |  5.03541756
+Step   7000: train         neg_log_perplexity | -5.03541756
+Step   7000: train          sequence_accuracy |  0.00000000
+Step   7000: train weights_per_batch_per_core |  93.73750305
+Step   7000: eval                    accuracy |  0.22297390
+Step   7000: eval                        loss |  5.25464964
+Step   7000: eval          neg_log_perplexity | -5.25464964
+Step   7000: eval           sequence_accuracy |  0.00000000
+Step   7000: eval  weights_per_batch_per_core |  79.86250305
+Step   7000: Finished evaluation
+
+Step   7200: Ran 200 train steps in 49.73 secs
+Step   7200: Evaluation
+Step   7200: train                   accuracy |  0.22520803
+Step   7200: train                       loss |  5.05364895
+Step   7200: train         neg_log_perplexity | -5.05364895
+Step   7200: train          sequence_accuracy |  0.00000000
+Step   7200: train weights_per_batch_per_core |  124.05000305
+Step   7200: eval                    accuracy |  0.23161829
+Step   7200: eval                        loss |  5.24033594
+Step   7200: eval          neg_log_perplexity | -5.24033594
+Step   7200: eval           sequence_accuracy |  0.00000000
+Step   7200: eval  weights_per_batch_per_core |  86.55000305
+Step   7200: Finished evaluation
+
+Step   7400: Ran 200 train steps in 48.66 secs
+Step   7400: Evaluation
+Step   7400: train                   accuracy |  0.21973513
+Step   7400: train                       loss |  5.06198835
+Step   7400: train         neg_log_perplexity | -5.06198835
+Step   7400: train          sequence_accuracy |  0.00000000
+Step   7400: train weights_per_batch_per_core |  100.13750458
+Step   7400: eval                    accuracy |  0.21731463
+Step   7400: eval                        loss |  5.37230396
+Step   7400: eval          neg_log_perplexity | -5.37230396
+Step   7400: eval           sequence_accuracy |  0.00000000
+Step   7400: eval  weights_per_batch_per_core |  72.07500458
+Step   7400: Finished evaluation
+
+Step   7600: Ran 200 train steps in 48.81 secs
+Step   7600: Evaluation
+Step   7600: train                   accuracy |  0.22708194
+Step   7600: train                       loss |  5.03795481
+Step   7600: train         neg_log_perplexity | -5.03795481
+Step   7600: train          sequence_accuracy |  0.00000000
+Step   7600: train weights_per_batch_per_core |  98.02500153
+Step   7600: eval                    accuracy |  0.24315858
+Step   7600: eval                        loss |  4.98740292
+Step   7600: eval          neg_log_perplexity | -4.98740292
+Step   7600: eval           sequence_accuracy |  0.00000000
+Step   7600: eval  weights_per_batch_per_core |  73.57500458
+Step   7600: Finished evaluation
+
+Step   7800: Ran 200 train steps in 47.31 secs
+Step   7800: Evaluation
+Step   7800: train                   accuracy |  0.22640133
+Step   7800: train                       loss |  5.03690863
+Step   7800: train         neg_log_perplexity | -5.03690863
+Step   7800: train          sequence_accuracy |  0.00000000
+Step   7800: train weights_per_batch_per_core |  100.91249847
+Step   7800: eval                    accuracy |  0.23169087
+Step   7800: eval                        loss |  5.22787333
+Step   7800: eval          neg_log_perplexity | -5.22787333
+Step   7800: eval           sequence_accuracy |  0.00000000
+Step   7800: eval  weights_per_batch_per_core |  79.47499847
+Step   7800: Finished evaluation
+
+Step   8000: Ran 200 train steps in 49.73 secs
+Step   8000: Evaluation
+Step   8000: train                   accuracy |  0.23677619
+Step   8000: train                       loss |  4.93106174
+Step   8000: train         neg_log_perplexity | -4.93106174
+Step   8000: train          sequence_accuracy |  0.00000000
+Step   8000: train weights_per_batch_per_core |  138.72500610
+Step   8000: eval                    accuracy |  0.24491835
+Step   8000: eval                        loss |  5.00545454
+Step   8000: eval          neg_log_perplexity | -5.00545454
+Step   8000: eval           sequence_accuracy |  0.00000000
+Step   8000: eval  weights_per_batch_per_core |  77.63750458
+Step   8000: Finished evaluation
+
+Step   8200: Ran 200 train steps in 48.50 secs
+Step   8200: Evaluation
+Step   8200: train                   accuracy |  0.21951242
+Step   8200: train                       loss |  5.05797577
+Step   8200: train         neg_log_perplexity | -5.05797577
+Step   8200: train          sequence_accuracy |  0.00000000
+Step   8200: train weights_per_batch_per_core |  86.20000458
+Step   8200: eval                    accuracy |  0.25031802
+Step   8200: eval                        loss |  4.92972755
+Step   8200: eval          neg_log_perplexity | -4.92972755
+Step   8200: eval           sequence_accuracy |  0.00000000
+Step   8200: eval  weights_per_batch_per_core |  81.81250000
+Step   8200: Finished evaluation
+
+Step   8400: Ran 200 train steps in 48.77 secs
+Step   8400: Evaluation
+Step   8400: train                   accuracy |  0.22688587
+Step   8400: train                       loss |  5.00801229
+Step   8400: train         neg_log_perplexity | -5.00801229
+Step   8400: train          sequence_accuracy |  0.00000000
+Step   8400: train weights_per_batch_per_core |  101.98750305
+Step   8400: eval                    accuracy |  0.23748152
+Step   8400: eval                        loss |  4.88597584
+Step   8400: eval          neg_log_perplexity | -4.88597584
+Step   8400: eval           sequence_accuracy |  0.00000000
+Step   8400: eval  weights_per_batch_per_core |  83.51250458
+Step   8400: Finished evaluation
+
+Step   8600: Ran 200 train steps in 47.84 secs
+Step   8600: Evaluation
+Step   8600: train                   accuracy |  0.23397253
+Step   8600: train                       loss |  4.92891455
+Step   8600: train         neg_log_perplexity | -4.92891455
+Step   8600: train          sequence_accuracy |  0.00000000
+Step   8600: train weights_per_batch_per_core |  119.07500458
+Step   8600: eval                    accuracy |  0.23393421
+Step   8600: eval                        loss |  5.18092489
+Step   8600: eval          neg_log_perplexity | -5.18092489
+Step   8600: eval           sequence_accuracy |  0.00000000
+Step   8600: eval  weights_per_batch_per_core |  76.50000000
+Step   8600: Finished evaluation
+
+Step   8800: Ran 200 train steps in 46.85 secs
+Step   8800: Evaluation
+Step   8800: train                   accuracy |  0.22860077
+Step   8800: train                       loss |  4.88112259
+Step   8800: train         neg_log_perplexity | -4.88112259
+Step   8800: train          sequence_accuracy |  0.00000000
+Step   8800: train weights_per_batch_per_core |  112.72499847
+Step   8800: eval                    accuracy |  0.25317273
+Step   8800: eval                        loss |  4.86666584
+Step   8800: eval          neg_log_perplexity | -4.86666584
+Step   8800: eval           sequence_accuracy |  0.00000000
+Step   8800: eval  weights_per_batch_per_core |  80.07500458
+Step   8800: Finished evaluation
+
+Step   9000: Ran 200 train steps in 47.70 secs
+Step   9000: Evaluation
+Step   9000: train                   accuracy |  0.21856423
+Step   9000: train                       loss |  5.06574154
+Step   9000: train         neg_log_perplexity | -5.06574154
+Step   9000: train          sequence_accuracy |  0.00000000
+Step   9000: train weights_per_batch_per_core |  96.07500458
+Step   9000: eval                    accuracy |  0.23558174
+Step   9000: eval                        loss |  5.11437225
+Step   9000: eval          neg_log_perplexity | -5.11437225
+Step   9000: eval           sequence_accuracy |  0.00000000
+Step   9000: eval  weights_per_batch_per_core |  75.75000000
+Step   9000: Finished evaluation
+
+Step   9200: Ran 200 train steps in 47.45 secs
+Step   9200: Evaluation
+Step   9200: train                   accuracy |  0.23589699
+Step   9200: train                       loss |  4.90579081
+Step   9200: train         neg_log_perplexity | -4.90579081
+Step   9200: train          sequence_accuracy |  0.00000000
+Step   9200: train weights_per_batch_per_core |  109.97499847
+Step   9200: eval                    accuracy |  0.24107292
+Step   9200: eval                        loss |  5.07778549
+Step   9200: eval          neg_log_perplexity | -5.07778549
+Step   9200: eval           sequence_accuracy |  0.00000000
+Step   9200: eval  weights_per_batch_per_core |  75.83750153
+Step   9200: Finished evaluation
+
+Step   9400: Ran 200 train steps in 48.23 secs
+Step   9400: Evaluation
+Step   9400: train                   accuracy |  0.23786925
+Step   9400: train                       loss |  4.85259295
+Step   9400: train         neg_log_perplexity | -4.85259295
+Step   9400: train          sequence_accuracy |  0.00000000
+Step   9400: train weights_per_batch_per_core |  87.37500000
+Step   9400: eval                    accuracy |  0.24545293
+Step   9400: eval                        loss |  5.02856350
+Step   9400: eval          neg_log_perplexity | -5.02856350
+Step   9400: eval           sequence_accuracy |  0.00000000
+Step   9400: eval  weights_per_batch_per_core |  78.25000000
+Step   9400: Finished evaluation
+
+Step   9600: Ran 200 train steps in 48.16 secs
+Step   9600: Evaluation
+Step   9600: train                   accuracy |  0.22245517
+Step   9600: train                       loss |  4.96157551
+Step   9600: train         neg_log_perplexity | -4.96157551
+Step   9600: train          sequence_accuracy |  0.00000000
+Step   9600: train weights_per_batch_per_core |  111.57500458
+Step   9600: eval                    accuracy |  0.23651095
+Step   9600: eval                        loss |  5.03781843
+Step   9600: eval          neg_log_perplexity | -5.03781843
+Step   9600: eval           sequence_accuracy |  0.00000000
+Step   9600: eval  weights_per_batch_per_core |  77.37500000
+Step   9600: Finished evaluation
+
+Step   9800: Ran 200 train steps in 48.51 secs
+Step   9800: Evaluation
+Step   9800: train                   accuracy |  0.23659442
+Step   9800: train                       loss |  4.94259357
+Step   9800: train         neg_log_perplexity | -4.94259357
+Step   9800: train          sequence_accuracy |  0.00000000
+Step   9800: train weights_per_batch_per_core |  89.15000153
+Step   9800: eval                    accuracy |  0.25706646
+Step   9800: eval                        loss |  4.96244812
+Step   9800: eval          neg_log_perplexity | -4.96244812
+Step   9800: eval           sequence_accuracy |  0.00000000
+Step   9800: eval  weights_per_batch_per_core |  79.27500153
+Step   9800: Finished evaluation
+
+Step  10000: Ran 200 train steps in 47.83 secs
+Step  10000: Evaluation
+Step  10000: train                   accuracy |  0.23255853
+Step  10000: train                       loss |  4.93791294
+Step  10000: train         neg_log_perplexity | -4.93791294
+Step  10000: train          sequence_accuracy |  0.00000000
+Step  10000: train weights_per_batch_per_core |  88.07500458
+Step  10000: eval                    accuracy |  0.24585977
+Step  10000: eval                        loss |  4.90620661
+Step  10000: eval          neg_log_perplexity | -4.90620661
+Step  10000: eval           sequence_accuracy |  0.00000000
+Step  10000: eval  weights_per_batch_per_core |  81.81250000
+Step  10000: Finished evaluation
+
+Step  10200: Ran 200 train steps in 48.34 secs
+Step  10200: Evaluation
+Step  10200: train                   accuracy |  0.23218358
+Step  10200: train                       loss |  4.84887838
+Step  10200: train         neg_log_perplexity | -4.84887838
+Step  10200: train          sequence_accuracy |  0.00000000
+Step  10200: train weights_per_batch_per_core |  103.27500153
+Step  10200: eval                    accuracy |  0.24740608
+Step  10200: eval                        loss |  4.73577881
+Step  10200: eval          neg_log_perplexity | -4.73577881
+Step  10200: eval           sequence_accuracy |  0.00000000
+Step  10200: eval  weights_per_batch_per_core |  80.66249847
+Step  10200: Finished evaluation
+
+Step  10400: Ran 200 train steps in 48.37 secs
+Step  10400: Evaluation
+Step  10400: train                   accuracy |  0.23033495
+Step  10400: train                       loss |  4.88268328
+Step  10400: train         neg_log_perplexity | -4.88268328
+Step  10400: train          sequence_accuracy |  0.00000000
+Step  10400: train weights_per_batch_per_core |  119.11250305
+Step  10400: eval                    accuracy |  0.24937962
+Step  10400: eval                        loss |  4.91206312
+Step  10400: eval          neg_log_perplexity | -4.91206312
+Step  10400: eval           sequence_accuracy |  0.00000000
+Step  10400: eval  weights_per_batch_per_core |  75.43750000
+Step  10400: Finished evaluation
+
+Step  10600: Ran 200 train steps in 48.81 secs
+Step  10600: Evaluation
+Step  10600: train                   accuracy |  0.22630727
+Step  10600: train                       loss |  4.91456747
+Step  10600: train         neg_log_perplexity | -4.91456747
+Step  10600: train          sequence_accuracy |  0.00000000
+Step  10600: train weights_per_batch_per_core |  101.51250458
+Step  10600: eval                    accuracy |  0.23439725
+Step  10600: eval                        loss |  4.99431562
+Step  10600: eval          neg_log_perplexity | -4.99431562
+Step  10600: eval           sequence_accuracy |  0.00000000
+Step  10600: eval  weights_per_batch_per_core |  78.34999847
+Step  10600: Finished evaluation
+
+Step  10800: Ran 200 train steps in 49.05 secs
+Step  10800: Evaluation
+Step  10800: train                   accuracy |  0.22719227
+Step  10800: train                       loss |  4.90767241
+Step  10800: train         neg_log_perplexity | -4.90767241
+Step  10800: train          sequence_accuracy |  0.00000000
+Step  10800: train weights_per_batch_per_core |  93.05000305
+Step  10800: eval                    accuracy |  0.23656523
+Step  10800: eval                        loss |  4.81844425
+Step  10800: eval          neg_log_perplexity | -4.81844425
+Step  10800: eval           sequence_accuracy |  0.00000000
+Step  10800: eval  weights_per_batch_per_core |  81.32500458
+Step  10800: Finished evaluation
+
+Step  11000: Ran 200 train steps in 51.08 secs
+Step  11000: Evaluation
+Step  11000: train                   accuracy |  0.23847413
+Step  11000: train                       loss |  4.77350044
+Step  11000: train         neg_log_perplexity | -4.77350044
+Step  11000: train          sequence_accuracy |  0.00000000
+Step  11000: train weights_per_batch_per_core |  105.06250000
+Step  11000: eval                    accuracy |  0.27663714
+Step  11000: eval                        loss |  4.59731245
+Step  11000: eval          neg_log_perplexity | -4.59731245
+Step  11000: eval           sequence_accuracy |  0.00000000
+Step  11000: eval  weights_per_batch_per_core |  79.22499847
+Step  11000: Finished evaluation
+
+Step  11200: Ran 200 train steps in 47.87 secs
+Step  11200: Evaluation
+Step  11200: train                   accuracy |  0.22491777
+Step  11200: train                       loss |  4.93484688
+Step  11200: train         neg_log_perplexity | -4.93484688
+Step  11200: train          sequence_accuracy |  0.00000000
+Step  11200: train weights_per_batch_per_core |  94.26250458
+Step  11200: eval                    accuracy |  0.24975128
+Step  11200: eval                        loss |  4.83812284
+Step  11200: eval          neg_log_perplexity | -4.83812284
+Step  11200: eval           sequence_accuracy |  0.00000000
+Step  11200: eval  weights_per_batch_per_core |  84.65000153
+Step  11200: Finished evaluation
+
+Step  11400: Ran 200 train steps in 48.30 secs
+Step  11400: Evaluation
+Step  11400: train                   accuracy |  0.24363141
+Step  11400: train                       loss |  4.75487089
+Step  11400: train         neg_log_perplexity | -4.75487089
+Step  11400: train          sequence_accuracy |  0.00000000
+Step  11400: train weights_per_batch_per_core |  122.58750153
+Step  11400: eval                    accuracy |  0.24063800
+Step  11400: eval                        loss |  4.94399786
+Step  11400: eval          neg_log_perplexity | -4.94399786
+Step  11400: eval           sequence_accuracy |  0.00000000
+Step  11400: eval  weights_per_batch_per_core |  85.01250458
+Step  11400: Finished evaluation
+
+Step  11600: Ran 200 train steps in 47.58 secs
+Step  11600: Evaluation
+Step  11600: train                   accuracy |  0.22612213
+Step  11600: train                       loss |  4.86880302
+Step  11600: train         neg_log_perplexity | -4.86880302
+Step  11600: train          sequence_accuracy |  0.00000000
+Step  11600: train weights_per_batch_per_core |  111.59999847
+Step  11600: eval                    accuracy |  0.24659853
+Step  11600: eval                        loss |  4.86994886
+Step  11600: eval          neg_log_perplexity | -4.86994886
+Step  11600: eval           sequence_accuracy |  0.00000000
+Step  11600: eval  weights_per_batch_per_core |  77.15000153
+Step  11600: Finished evaluation
+
+Step  11800: Ran 200 train steps in 47.64 secs
+Step  11800: Evaluation
+Step  11800: train                   accuracy |  0.24060707
+Step  11800: train                       loss |  4.80194378
+Step  11800: train         neg_log_perplexity | -4.80194378
+Step  11800: train          sequence_accuracy |  0.00000000
+Step  11800: train weights_per_batch_per_core |  99.66249847
+Step  11800: eval                    accuracy |  0.26248005
+Step  11800: eval                        loss |  4.73885536
+Step  11800: eval          neg_log_perplexity | -4.73885536
+Step  11800: eval           sequence_accuracy |  0.00000000
+Step  11800: eval  weights_per_batch_per_core |  78.71250153
+Step  11800: Finished evaluation
+
+Step  12000: Ran 200 train steps in 48.20 secs
+Step  12000: Evaluation
+Step  12000: train                   accuracy |  0.23534541
+Step  12000: train                       loss |  4.79593039
+Step  12000: train         neg_log_perplexity | -4.79593039
+Step  12000: train          sequence_accuracy |  0.00000000
+Step  12000: train weights_per_batch_per_core |  104.72499847
+Step  12000: eval                    accuracy |  0.24123470
+Step  12000: eval                        loss |  4.99364614
+Step  12000: eval          neg_log_perplexity | -4.99364614
+Step  12000: eval           sequence_accuracy |  0.00000000
+Step  12000: eval  weights_per_batch_per_core |  78.81250000
+Step  12000: Finished evaluation
+
+Step  12200: Ran 200 train steps in 48.48 secs
+Step  12200: Evaluation
+Step  12200: train                   accuracy |  0.23350656
+Step  12200: train                       loss |  4.87414408
+Step  12200: train         neg_log_perplexity | -4.87414408
+Step  12200: train          sequence_accuracy |  0.00000000
+Step  12200: train weights_per_batch_per_core |  101.62500000
+Step  12200: eval                    accuracy |  0.26863000
+Step  12200: eval                        loss |  4.70304823
+Step  12200: eval          neg_log_perplexity | -4.70304823
+Step  12200: eval           sequence_accuracy |  0.00000000
+Step  12200: eval  weights_per_batch_per_core |  80.77500153
+Step  12200: Finished evaluation
+
+Step  12400: Ran 200 train steps in 48.50 secs
+Step  12400: Evaluation
+Step  12400: train                   accuracy |  0.22534965
+Step  12400: train                       loss |  4.95579243
+Step  12400: train         neg_log_perplexity | -4.95579243
+Step  12400: train          sequence_accuracy |  0.00000000
+Step  12400: train weights_per_batch_per_core |  79.05000305
+Step  12400: eval                    accuracy |  0.26255128
+Step  12400: eval                        loss |  4.79065132
+Step  12400: eval          neg_log_perplexity | -4.79065132
+Step  12400: eval           sequence_accuracy |  0.00000000
+Step  12400: eval  weights_per_batch_per_core |  74.13750458
+Step  12400: Finished evaluation
+
+Step  12600: Ran 200 train steps in 48.72 secs
+Step  12600: Evaluation
+Step  12600: train                   accuracy |  0.23273359
+Step  12600: train                       loss |  4.82836437
+Step  12600: train         neg_log_perplexity | -4.82836437
+Step  12600: train          sequence_accuracy |  0.00000000
+Step  12600: train weights_per_batch_per_core |  89.27500153
+Step  12600: eval                    accuracy |  0.26874202
+Step  12600: eval                        loss |  4.57320404
+Step  12600: eval          neg_log_perplexity | -4.57320404
+Step  12600: eval           sequence_accuracy |  0.00000000
+Step  12600: eval  weights_per_batch_per_core |  84.92500305
+Step  12600: Finished evaluation
+
+Step  12800: Ran 200 train steps in 48.73 secs
+Step  12800: Evaluation
+Step  12800: train                   accuracy |  0.24398127
+Step  12800: train                       loss |  4.80689240
+Step  12800: train         neg_log_perplexity | -4.80689240
+Step  12800: train          sequence_accuracy |  0.00000000
+Step  12800: train weights_per_batch_per_core |  104.08750153
+Step  12800: eval                    accuracy |  0.26471353
+Step  12800: eval                        loss |  4.59351873
+Step  12800: eval          neg_log_perplexity | -4.59351873
+Step  12800: eval           sequence_accuracy |  0.00000000
+Step  12800: eval  weights_per_batch_per_core |  83.25000000
+Step  12800: Finished evaluation
+
+Step  13000: Ran 200 train steps in 47.95 secs
+Step  13000: Evaluation
+Step  13000: train                   accuracy |  0.23948279
+Step  13000: train                       loss |  4.68305922
+Step  13000: train         neg_log_perplexity | -4.68305922
+Step  13000: train          sequence_accuracy |  0.00000000
+Step  13000: train weights_per_batch_per_core |  115.65000153
+Step  13000: eval                    accuracy |  0.24814466
+Step  13000: eval                        loss |  4.79042244
+Step  13000: eval          neg_log_perplexity | -4.79042244
+Step  13000: eval           sequence_accuracy |  0.00000000
+Step  13000: eval  weights_per_batch_per_core |  77.15000153
+Step  13000: Finished evaluation
+
+Step  13200: Ran 200 train steps in 48.20 secs
+Step  13200: Evaluation
+Step  13200: train                   accuracy |  0.22757116
+Step  13200: train                       loss |  4.84496069
+Step  13200: train         neg_log_perplexity | -4.84496069
+Step  13200: train          sequence_accuracy |  0.00000000
+Step  13200: train weights_per_batch_per_core |  100.83750153
+Step  13200: eval                    accuracy |  0.24927334
+Step  13200: eval                        loss |  4.82730103
+Step  13200: eval          neg_log_perplexity | -4.82730103
+Step  13200: eval           sequence_accuracy |  0.00000000
+Step  13200: eval  weights_per_batch_per_core |  85.82500458
+Step  13200: Finished evaluation
+
+Step  13400: Ran 200 train steps in 48.24 secs
+Step  13400: Evaluation
+Step  13400: train                   accuracy |  0.24535155
+Step  13400: train                       loss |  4.69456387
+Step  13400: train         neg_log_perplexity | -4.69456387
+Step  13400: train          sequence_accuracy |  0.00000000
+Step  13400: train weights_per_batch_per_core |  94.58750153
+Step  13400: eval                    accuracy |  0.26142392
+Step  13400: eval                        loss |  4.67208242
+Step  13400: eval          neg_log_perplexity | -4.67208242
+Step  13400: eval           sequence_accuracy |  0.00000000
+Step  13400: eval  weights_per_batch_per_core |  77.82500458
+Step  13400: Finished evaluation
+
+Step  13600: Ran 200 train steps in 48.23 secs
+Step  13600: Evaluation
+Step  13600: train                   accuracy |  0.24444114
+Step  13600: train                       loss |  4.77329969
+Step  13600: train         neg_log_perplexity | -4.77329969
+Step  13600: train          sequence_accuracy |  0.00000000
+Step  13600: train weights_per_batch_per_core |  108.21250153
+Step  13600: eval                    accuracy |  0.25475892
+Step  13600: eval                        loss |  4.74607420
+Step  13600: eval          neg_log_perplexity | -4.74607420
+Step  13600: eval           sequence_accuracy |  0.00000000
+Step  13600: eval  weights_per_batch_per_core |  90.16249847
+Step  13600: Finished evaluation
+
+Step  13800: Ran 200 train steps in 48.45 secs
+Step  13800: Evaluation
+Step  13800: train                   accuracy |  0.24083419
+Step  13800: train                       loss |  4.76926947
+Step  13800: train         neg_log_perplexity | -4.76926947
+Step  13800: train          sequence_accuracy |  0.00000000
+Step  13800: train weights_per_batch_per_core |  105.84999847
+Step  13800: eval                    accuracy |  0.26285312
+Step  13800: eval                        loss |  4.61678410
+Step  13800: eval          neg_log_perplexity | -4.61678410
+Step  13800: eval           sequence_accuracy |  0.00000000
+Step  13800: eval  weights_per_batch_per_core |  76.17500305
+Step  13800: Finished evaluation
+
+Step  14000: Ran 200 train steps in 48.85 secs
+Step  14000: Evaluation
+Step  14000: train                   accuracy |  0.23871346
+Step  14000: train                       loss |  4.76166296
+Step  14000: train         neg_log_perplexity | -4.76166296
+Step  14000: train          sequence_accuracy |  0.00000000
+Step  14000: train weights_per_batch_per_core |  98.57500458
+Step  14000: eval                    accuracy |  0.26453790
+Step  14000: eval                        loss |  4.62449646
+Step  14000: eval          neg_log_perplexity | -4.62449646
+Step  14000: eval           sequence_accuracy |  0.00000000
+Step  14000: eval  weights_per_batch_per_core |  77.42500305
+Step  14000: Finished evaluation
+
+Step  14200: Ran 200 train steps in 50.14 secs
+Step  14200: Evaluation
+Step  14200: train                   accuracy |  0.24820323
+Step  14200: train                       loss |  4.66502953
+Step  14200: train         neg_log_perplexity | -4.66502953
+Step  14200: train          sequence_accuracy |  0.00000000
+Step  14200: train weights_per_batch_per_core |  130.21250916
+Step  14200: eval                    accuracy |  0.27143043
+Step  14200: eval                        loss |  4.58725739
+Step  14200: eval          neg_log_perplexity | -4.58725739
+Step  14200: eval           sequence_accuracy |  0.00000000
+Step  14200: eval  weights_per_batch_per_core |  81.80000305
+Step  14200: Finished evaluation
+
+Step  14400: Ran 200 train steps in 47.49 secs
+Step  14400: Evaluation
+Step  14400: train                   accuracy |  0.23581092
+Step  14400: train                       loss |  4.69121790
+Step  14400: train         neg_log_perplexity | -4.69121790
+Step  14400: train          sequence_accuracy |  0.00000000
+Step  14400: train weights_per_batch_per_core |  119.36250305
+Step  14400: eval                    accuracy |  0.26806793
+Step  14400: eval                        loss |  4.49253035
+Step  14400: eval          neg_log_perplexity | -4.49253035
+Step  14400: eval           sequence_accuracy |  0.00000000
+Step  14400: eval  weights_per_batch_per_core |  82.83750153
+Step  14400: Finished evaluation
+
+Step  14600: Ran 200 train steps in 48.60 secs
+Step  14600: Evaluation
+Step  14600: train                   accuracy |  0.24774630
+Step  14600: train                       loss |  4.77392101
+Step  14600: train         neg_log_perplexity | -4.77392101
+Step  14600: train          sequence_accuracy |  0.00000000
+Step  14600: train weights_per_batch_per_core |  98.38750458
+Step  14600: eval                    accuracy |  0.26449656
+Step  14600: eval                        loss |  4.67714930
+Step  14600: eval          neg_log_perplexity | -4.67714930
+Step  14600: eval           sequence_accuracy |  0.00000000
+Step  14600: eval  weights_per_batch_per_core |  74.52500153
+Step  14600: Finished evaluation
+
+Step  14800: Ran 200 train steps in 49.36 secs
+Step  14800: Evaluation
+Step  14800: train                   accuracy |  0.24076107
+Step  14800: train                       loss |  4.72916937
+Step  14800: train         neg_log_perplexity | -4.72916937
+Step  14800: train          sequence_accuracy |  0.00000000
+Step  14800: train weights_per_batch_per_core |  93.75000000
+Step  14800: eval                    accuracy |  0.26934817
+Step  14800: eval                        loss |  4.51000404
+Step  14800: eval          neg_log_perplexity | -4.51000404
+Step  14800: eval           sequence_accuracy |  0.00000000
+Step  14800: eval  weights_per_batch_per_core |  74.75000000
+Step  14800: Finished evaluation
+
+Step  15000: Ran 200 train steps in 48.33 secs
+Step  15000: Evaluation
+Step  15000: train                   accuracy |  0.24327302
+Step  15000: train                       loss |  4.75425816
+Step  15000: train         neg_log_perplexity | -4.75425816
+Step  15000: train          sequence_accuracy |  0.00000000
+Step  15000: train weights_per_batch_per_core |  95.06250000
+Step  15000: eval                    accuracy |  0.24804707
+Step  15000: eval                        loss |  4.70602083
+Step  15000: eval          neg_log_perplexity | -4.70602083
+Step  15000: eval           sequence_accuracy |  0.00000000
+Step  15000: eval  weights_per_batch_per_core |  80.38750458
+Step  15000: Finished evaluation
+
+Step  15200: Ran 200 train steps in 47.75 secs
+Step  15200: Evaluation
+Step  15200: train                   accuracy |  0.22952591
+Step  15200: train                       loss |  4.80966139
+Step  15200: train         neg_log_perplexity | -4.80966139
+Step  15200: train          sequence_accuracy |  0.00000000
+Step  15200: train weights_per_batch_per_core |  95.41249847
+Step  15200: eval                    accuracy |  0.26753387
+Step  15200: eval                        loss |  4.55219603
+Step  15200: eval          neg_log_perplexity | -4.55219603
+Step  15200: eval           sequence_accuracy |  0.00000000
+Step  15200: eval  weights_per_batch_per_core |  76.71250153
+Step  15200: Finished evaluation
+
+Step  15400: Ran 200 train steps in 48.66 secs
+Step  15400: Evaluation
+Step  15400: train                   accuracy |  0.24256316
+Step  15400: train                       loss |  4.81560516
+Step  15400: train         neg_log_perplexity | -4.81560516
+Step  15400: train          sequence_accuracy |  0.00000000
+Step  15400: train weights_per_batch_per_core |  84.48750305
+Step  15400: eval                    accuracy |  0.27023181
+Step  15400: eval                        loss |  4.46456242
+Step  15400: eval          neg_log_perplexity | -4.46456242
+Step  15400: eval           sequence_accuracy |  0.00000000
+Step  15400: eval  weights_per_batch_per_core |  84.62500000
+Step  15400: Finished evaluation
+
+Step  15600: Ran 200 train steps in 48.58 secs
+Step  15600: Evaluation
+Step  15600: train                   accuracy |  0.25800094
+Step  15600: train                       loss |  4.61721325
+Step  15600: train         neg_log_perplexity | -4.61721325
+Step  15600: train          sequence_accuracy |  0.00000000
+Step  15600: train weights_per_batch_per_core |  141.82499695
+Step  15600: eval                    accuracy |  0.26024139
+Step  15600: eval                        loss |  4.49340391
+Step  15600: eval          neg_log_perplexity | -4.49340391
+Step  15600: eval           sequence_accuracy |  0.00000000
+Step  15600: eval  weights_per_batch_per_core |  77.57500458
+Step  15600: Finished evaluation
+
+Step  15800: Ran 200 train steps in 49.37 secs
+Step  15800: Evaluation
+Step  15800: train                   accuracy |  0.24368024
+Step  15800: train                       loss |  4.69427061
+Step  15800: train         neg_log_perplexity | -4.69427061
+Step  15800: train          sequence_accuracy |  0.00000000
+Step  15800: train weights_per_batch_per_core |  96.98750305
+Step  15800: eval                    accuracy |  0.27595493
+Step  15800: eval                        loss |  4.50058508
+Step  15800: eval          neg_log_perplexity | -4.50058508
+Step  15800: eval           sequence_accuracy |  0.00000000
+Step  15800: eval  weights_per_batch_per_core |  83.02500153
+Step  15800: Finished evaluation
+
+Step  16000: Ran 200 train steps in 48.89 secs
+Step  16000: Evaluation
+Step  16000: train                   accuracy |  0.25184965
+Step  16000: train                       loss |  4.67522526
+Step  16000: train         neg_log_perplexity | -4.67522526
+Step  16000: train          sequence_accuracy |  0.00000000
+Step  16000: train weights_per_batch_per_core |  127.05000305
+Step  16000: eval                    accuracy |  0.26940843
+Step  16000: eval                        loss |  4.51939440
+Step  16000: eval          neg_log_perplexity | -4.51939440
+Step  16000: eval           sequence_accuracy |  0.00000000
+Step  16000: eval  weights_per_batch_per_core |  82.37500000
+Step  16000: Finished evaluation
+
+Step  16200: Ran 200 train steps in 48.52 secs
+Step  16200: Evaluation
+Step  16200: train                   accuracy |  0.23438273
+Step  16200: train                       loss |  4.80006075
+Step  16200: train         neg_log_perplexity | -4.80006075
+Step  16200: train          sequence_accuracy |  0.00000000
+Step  16200: train weights_per_batch_per_core |  88.78749847
+Step  16200: eval                    accuracy |  0.26812792
+Step  16200: eval                        loss |  4.52390909
+Step  16200: eval          neg_log_perplexity | -4.52390909
+Step  16200: eval           sequence_accuracy |  0.00000000
+Step  16200: eval  weights_per_batch_per_core |  86.67500305
+Step  16200: Finished evaluation
+
+Step  16400: Ran 200 train steps in 47.97 secs
+Step  16400: Evaluation
+Step  16400: train                   accuracy |  0.24591222
+Step  16400: train                       loss |  4.68409920
+Step  16400: train         neg_log_perplexity | -4.68409920
+Step  16400: train          sequence_accuracy |  0.00000000
+Step  16400: train weights_per_batch_per_core |  103.42500305
+Step  16400: eval                    accuracy |  0.27323607
+Step  16400: eval                        loss |  4.52920532
+Step  16400: eval          neg_log_perplexity | -4.52920532
+Step  16400: eval           sequence_accuracy |  0.00000000
+Step  16400: eval  weights_per_batch_per_core |  81.45000458
+Step  16400: Finished evaluation
+
+Step  16600: Ran 200 train steps in 48.92 secs
+Step  16600: Evaluation
+Step  16600: train                   accuracy |  0.25235534
+Step  16600: train                       loss |  4.60424328
+Step  16600: train         neg_log_perplexity | -4.60424328
+Step  16600: train          sequence_accuracy |  0.00000000
+Step  16600: train weights_per_batch_per_core |  88.80000305
+Step  16600: eval                    accuracy |  0.28714070
+Step  16600: eval                        loss |  4.37819147
+Step  16600: eval          neg_log_perplexity | -4.37819147
+Step  16600: eval           sequence_accuracy |  0.00000000
+Step  16600: eval  weights_per_batch_per_core |  78.95000458
+Step  16600: Finished evaluation
+
+Step  16800: Ran 200 train steps in 48.83 secs
+Step  16800: Evaluation
+Step  16800: train                   accuracy |  0.24944952
+Step  16800: train                       loss |  4.62503862
+Step  16800: train         neg_log_perplexity | -4.62503862
+Step  16800: train          sequence_accuracy |  0.00000000
+Step  16800: train weights_per_batch_per_core |  122.70000458
+Step  16800: eval                    accuracy |  0.27393562
+Step  16800: eval                        loss |  4.48544073
+Step  16800: eval          neg_log_perplexity | -4.48544073
+Step  16800: eval           sequence_accuracy |  0.00000000
+Step  16800: eval  weights_per_batch_per_core |  83.55000305
+Step  16800: Finished evaluation
+
+Step  17000: Ran 200 train steps in 50.08 secs
+Step  17000: Evaluation
+Step  17000: train                   accuracy |  0.24806575
+Step  17000: train                       loss |  4.62152195
+Step  17000: train         neg_log_perplexity | -4.62152195
+Step  17000: train          sequence_accuracy |  0.00000000
+Step  17000: train weights_per_batch_per_core |  113.05000305
+Step  17000: eval                    accuracy |  0.26929197
+Step  17000: eval                        loss |  4.51180601
+Step  17000: eval          neg_log_perplexity | -4.51180601
+Step  17000: eval           sequence_accuracy |  0.00000000
+Step  17000: eval  weights_per_batch_per_core |  76.43750000
+Step  17000: Finished evaluation
+
+Step  17200: Ran 200 train steps in 51.16 secs
+Step  17200: Evaluation
+Step  17200: train                   accuracy |  0.24662717
+Step  17200: train                       loss |  4.62434149
+Step  17200: train         neg_log_perplexity | -4.62434149
+Step  17200: train          sequence_accuracy |  0.00000000
+Step  17200: train weights_per_batch_per_core |  84.40000153
+Step  17200: eval                    accuracy |  0.26482293
+Step  17200: eval                        loss |  4.58083344
+Step  17200: eval          neg_log_perplexity | -4.58083344
+Step  17200: eval           sequence_accuracy |  0.00000000
+Step  17200: eval  weights_per_batch_per_core |  83.02500153
+Step  17200: Finished evaluation
+
+Step  17400: Ran 200 train steps in 48.57 secs
+Step  17400: Evaluation
+Step  17400: train                   accuracy |  0.24537790
+Step  17400: train                       loss |  4.71395111
+Step  17400: train         neg_log_perplexity | -4.71395111
+Step  17400: train          sequence_accuracy |  0.00000000
+Step  17400: train weights_per_batch_per_core |  99.71250153
+Step  17400: eval                    accuracy |  0.25969544
+Step  17400: eval                        loss |  4.63052511
+Step  17400: eval          neg_log_perplexity | -4.63052511
+Step  17400: eval           sequence_accuracy |  0.00000000
+Step  17400: eval  weights_per_batch_per_core |  82.62500000
+Step  17400: Finished evaluation
+
+Step  17600: Ran 200 train steps in 48.36 secs
+Step  17600: Evaluation
+Step  17600: train                   accuracy |  0.24696615
+Step  17600: train                       loss |  4.74543953
+Step  17600: train         neg_log_perplexity | -4.74543953
+Step  17600: train          sequence_accuracy |  0.00000000
+Step  17600: train weights_per_batch_per_core |  108.25000000
+Step  17600: eval                    accuracy |  0.27205864
+Step  17600: eval                        loss |  4.51762247
+Step  17600: eval          neg_log_perplexity | -4.51762247
+Step  17600: eval           sequence_accuracy |  0.00000000
+Step  17600: eval  weights_per_batch_per_core |  80.03749847
+Step  17600: Finished evaluation
+
+Step  17800: Ran 200 train steps in 49.64 secs
+Step  17800: Evaluation
+Step  17800: train                   accuracy |  0.25761548
+Step  17800: train                       loss |  4.61408758
+Step  17800: train         neg_log_perplexity | -4.61408758
+Step  17800: train          sequence_accuracy |  0.00000000
+Step  17800: train weights_per_batch_per_core |  91.21250153
+Step  17800: eval                    accuracy |  0.27519149
+Step  17800: eval                        loss |  4.39738846
+Step  17800: eval          neg_log_perplexity | -4.39738846
+Step  17800: eval           sequence_accuracy |  0.00000000
+Step  17800: eval  weights_per_batch_per_core |  78.53749847
+Step  17800: Finished evaluation
+
+Step  18000: Ran 200 train steps in 49.67 secs
+Step  18000: Evaluation
+Step  18000: train                   accuracy |  0.26742175
+Step  18000: train                       loss |  4.59506941
+Step  18000: train         neg_log_perplexity | -4.59506941
+Step  18000: train          sequence_accuracy |  0.00000000
+Step  18000: train weights_per_batch_per_core |  95.81250000
+Step  18000: eval                    accuracy |  0.28131053
+Step  18000: eval                        loss |  4.48187828
+Step  18000: eval          neg_log_perplexity | -4.48187828
+Step  18000: eval           sequence_accuracy |  0.00000000
+Step  18000: eval  weights_per_batch_per_core |  76.95000458
+Step  18000: Finished evaluation
+
+Step  18200: Ran 200 train steps in 48.96 secs
+Step  18200: Evaluation
+Step  18200: train                   accuracy |  0.25259516
+Step  18200: train                       loss |  4.63666868
+Step  18200: train         neg_log_perplexity | -4.63666868
+Step  18200: train          sequence_accuracy |  0.00000000
+Step  18200: train weights_per_batch_per_core |  117.11250305
+Step  18200: eval                    accuracy |  0.27216464
+Step  18200: eval                        loss |  4.37758303
+Step  18200: eval          neg_log_perplexity | -4.37758303
+Step  18200: eval           sequence_accuracy |  0.00000000
+Step  18200: eval  weights_per_batch_per_core |  81.56250000
+Step  18200: Finished evaluation
+
+Step  18400: Ran 200 train steps in 47.32 secs
+Step  18400: Evaluation
+Step  18400: train                   accuracy |  0.25212169
+Step  18400: train                       loss |  4.63461828
+Step  18400: train         neg_log_perplexity | -4.63461828
+Step  18400: train          sequence_accuracy |  0.00000000
+Step  18400: train weights_per_batch_per_core |  94.56250000
+Step  18400: eval                    accuracy |  0.28101823
+Step  18400: eval                        loss |  4.38624954
+Step  18400: eval          neg_log_perplexity | -4.38624954
+Step  18400: eval           sequence_accuracy |  0.00000000
+Step  18400: eval  weights_per_batch_per_core |  83.23750305
+Step  18400: Finished evaluation
+
+Step  18600: Ran 200 train steps in 47.86 secs
+Step  18600: Evaluation
+Step  18600: train                   accuracy |  0.26190710
+Step  18600: train                       loss |  4.60214949
+Step  18600: train         neg_log_perplexity | -4.60214949
+Step  18600: train          sequence_accuracy |  0.00000000
+Step  18600: train weights_per_batch_per_core |  108.53749847
+Step  18600: eval                    accuracy |  0.28163266
+Step  18600: eval                        loss |  4.44412136
+Step  18600: eval          neg_log_perplexity | -4.44412136
+Step  18600: eval           sequence_accuracy |  0.00000000
+Step  18600: eval  weights_per_batch_per_core |  77.57500458
+Step  18600: Finished evaluation
+
+Step  18800: Ran 200 train steps in 48.79 secs
+Step  18800: Evaluation
+Step  18800: train                   accuracy |  0.26275468
+Step  18800: train                       loss |  4.54175663
+Step  18800: train         neg_log_perplexity | -4.54175663
+Step  18800: train          sequence_accuracy |  0.00000000
+Step  18800: train weights_per_batch_per_core |  129.11250305
+Step  18800: eval                    accuracy |  0.28768560
+Step  18800: eval                        loss |  4.43198824
+Step  18800: eval          neg_log_perplexity | -4.43198824
+Step  18800: eval           sequence_accuracy |  0.00000000
+Step  18800: eval  weights_per_batch_per_core |  76.40000153
+Step  18800: Finished evaluation
+
+Step  19000: Ran 200 train steps in 48.62 secs
+Step  19000: Evaluation
+Step  19000: train                   accuracy |  0.24815011
+Step  19000: train                       loss |  4.63703775
+Step  19000: train         neg_log_perplexity | -4.63703775
+Step  19000: train          sequence_accuracy |  0.00000000
+Step  19000: train weights_per_batch_per_core |  100.90000153
+Step  19000: eval                    accuracy |  0.26835769
+Step  19000: eval                        loss |  4.51568079
+Step  19000: eval          neg_log_perplexity | -4.51568079
+Step  19000: eval           sequence_accuracy |  0.00000000
+Step  19000: eval  weights_per_batch_per_core |  85.95000458
+Step  19000: Finished evaluation
+
+Step  19200: Ran 200 train steps in 50.03 secs
+Step  19200: Evaluation
+Step  19200: train                   accuracy |  0.25364965
+Step  19200: train                       loss |  4.62069225
+Step  19200: train         neg_log_perplexity | -4.62069225
+Step  19200: train          sequence_accuracy |  0.00000000
+Step  19200: train weights_per_batch_per_core |  103.33750153
+Step  19200: eval                    accuracy |  0.27183682
+Step  19200: eval                        loss |  4.44789267
+Step  19200: eval          neg_log_perplexity | -4.44789267
+Step  19200: eval           sequence_accuracy |  0.00000000
+Step  19200: eval  weights_per_batch_per_core |  79.27500153
+Step  19200: Finished evaluation
+
+Step  19400: Ran 200 train steps in 48.56 secs
+Step  19400: Evaluation
+Step  19400: train                   accuracy |  0.24796295
+Step  19400: train                       loss |  4.59148979
+Step  19400: train         neg_log_perplexity | -4.59148979
+Step  19400: train          sequence_accuracy |  0.00000000
+Step  19400: train weights_per_batch_per_core |  98.76250458
+Step  19400: eval                    accuracy |  0.28288636
+Step  19400: eval                        loss |  4.43950415
+Step  19400: eval          neg_log_perplexity | -4.43950415
+Step  19400: eval           sequence_accuracy |  0.00000000
+Step  19400: eval  weights_per_batch_per_core |  79.91249847
+Step  19400: Finished evaluation
+
+Step  19600: Ran 200 train steps in 47.94 secs
+Step  19600: Evaluation
+Step  19600: train                   accuracy |  0.24224427
+Step  19600: train                       loss |  4.66813183
+Step  19600: train         neg_log_perplexity | -4.66813183
+Step  19600: train          sequence_accuracy |  0.00000000
+Step  19600: train weights_per_batch_per_core |  91.43750000
+Step  19600: eval                    accuracy |  0.28792170
+Step  19600: eval                        loss |  4.36847162
+Step  19600: eval          neg_log_perplexity | -4.36847162
+Step  19600: eval           sequence_accuracy |  0.00000000
+Step  19600: eval  weights_per_batch_per_core |  78.22499847
+Step  19600: Finished evaluation
+
+Step  19800: Ran 200 train steps in 49.03 secs
+Step  19800: Evaluation
+Step  19800: train                   accuracy |  0.26742977
+Step  19800: train                       loss |  4.42657566
+Step  19800: train         neg_log_perplexity | -4.42657566
+Step  19800: train          sequence_accuracy |  0.00000000
+Step  19800: train weights_per_batch_per_core |  88.12500000
+Step  19800: eval                    accuracy |  0.28798029
+Step  19800: eval                        loss |  4.42706966
+Step  19800: eval          neg_log_perplexity | -4.42706966
+Step  19800: eval           sequence_accuracy |  0.00000000
+Step  19800: eval  weights_per_batch_per_core |  77.86250305
+Step  19800: Finished evaluation
+
+Step  20000: Ran 200 train steps in 48.37 secs
+Step  20000: Evaluation
+Step  20000: train                   accuracy |  0.26720148
+Step  20000: train                       loss |  4.50259781
+Step  20000: train         neg_log_perplexity | -4.50259781
+Step  20000: train          sequence_accuracy |  0.00000000
+Step  20000: train weights_per_batch_per_core |  103.78749847
+Step  20000: eval                    accuracy |  0.27544710
+Step  20000: eval                        loss |  4.48868132
+Step  20000: eval          neg_log_perplexity | -4.48868132
+Step  20000: eval           sequence_accuracy |  0.00000000
+Step  20000: eval  weights_per_batch_per_core |  82.77500153
+Step  20000: Finished evaluation
+
+Step  20200: Ran 200 train steps in 47.84 secs
+Step  20200: Evaluation
+Step  20200: train                   accuracy |  0.25723913
+Step  20200: train                       loss |  4.53243351
+Step  20200: train         neg_log_perplexity | -4.53243351
+Step  20200: train          sequence_accuracy |  0.00000000
+Step  20200: train weights_per_batch_per_core |  98.52500153
+Step  20200: eval                    accuracy |  0.27410004
+Step  20200: eval                        loss |  4.39653587
+Step  20200: eval          neg_log_perplexity | -4.39653587
+Step  20200: eval           sequence_accuracy |  0.00000000
+Step  20200: eval  weights_per_batch_per_core |  83.62500000
+Step  20200: Finished evaluation
+
+Step  20400: Ran 200 train steps in 48.31 secs
+Step  20400: Evaluation
+Step  20400: train                   accuracy |  0.25725770
+Step  20400: train                       loss |  4.46722126
+Step  20400: train         neg_log_perplexity | -4.46722126
+Step  20400: train          sequence_accuracy |  0.00000000
+Step  20400: train weights_per_batch_per_core |  100.02500153
+Step  20400: eval                    accuracy |  0.27263761
+Step  20400: eval                        loss |  4.49816465
+Step  20400: eval          neg_log_perplexity | -4.49816465
+Step  20400: eval           sequence_accuracy |  0.00000000
+Step  20400: eval  weights_per_batch_per_core |  76.36250305
+Step  20400: Finished evaluation
+
+Step  20600: Ran 200 train steps in 48.15 secs
+Step  20600: Evaluation
+Step  20600: train                   accuracy |  0.26173529
+Step  20600: train                       loss |  4.54955053
+Step  20600: train         neg_log_perplexity | -4.54955053
+Step  20600: train          sequence_accuracy |  0.00000000
+Step  20600: train weights_per_batch_per_core |  118.86250305
+Step  20600: eval                    accuracy |  0.28212330
+Step  20600: eval                        loss |  4.41622972
+Step  20600: eval          neg_log_perplexity | -4.41622972
+Step  20600: eval           sequence_accuracy |  0.00000000
+Step  20600: eval  weights_per_batch_per_core |  80.66249847
+Step  20600: Finished evaluation
+
+Step  20800: Ran 200 train steps in 50.33 secs
+Step  20800: Evaluation
+Step  20800: train                   accuracy |  0.26018435
+Step  20800: train                       loss |  4.47728872
+Step  20800: train         neg_log_perplexity | -4.47728872
+Step  20800: train          sequence_accuracy |  0.00000000
+Step  20800: train weights_per_batch_per_core |  89.28749847
+Step  20800: eval                    accuracy |  0.29506874
+Step  20800: eval                        loss |  4.33171034
+Step  20800: eval          neg_log_perplexity | -4.33171034
+Step  20800: eval           sequence_accuracy |  0.00000000
+Step  20800: eval  weights_per_batch_per_core |  79.37500000
+Step  20800: Finished evaluation
+
+Step  21000: Ran 200 train steps in 48.15 secs
+Step  21000: Evaluation
+Step  21000: train                   accuracy |  0.25972402
+Step  21000: train                       loss |  4.53131390
+Step  21000: train         neg_log_perplexity | -4.53131390
+Step  21000: train          sequence_accuracy |  0.00000000
+Step  21000: train weights_per_batch_per_core |  106.41249847
+Step  21000: eval                    accuracy |  0.28593767
+Step  21000: eval                        loss |  4.35946274
+Step  21000: eval          neg_log_perplexity | -4.35946274
+Step  21000: eval           sequence_accuracy |  0.00000000
+Step  21000: eval  weights_per_batch_per_core |  82.98750305
+Step  21000: Finished evaluation
+
+Step  21200: Ran 200 train steps in 50.16 secs
+Step  21200: Evaluation
+Step  21200: train                   accuracy |  0.26241943
+Step  21200: train                       loss |  4.46261358
+Step  21200: train         neg_log_perplexity | -4.46261358
+Step  21200: train          sequence_accuracy |  0.00000000
+Step  21200: train weights_per_batch_per_core |  96.47499847
+Step  21200: eval                    accuracy |  0.27327523
+Step  21200: eval                        loss |  4.52174473
+Step  21200: eval          neg_log_perplexity | -4.52174473
+Step  21200: eval           sequence_accuracy |  0.00000000
+Step  21200: eval  weights_per_batch_per_core |  82.38750458
+Step  21200: Finished evaluation
+
+Step  21400: Ran 200 train steps in 48.75 secs
+Step  21400: Evaluation
+Step  21400: train                   accuracy |  0.25330219
+Step  21400: train                       loss |  4.62698603
+Step  21400: train         neg_log_perplexity | -4.62698603
+Step  21400: train          sequence_accuracy |  0.00000000
+Step  21400: train weights_per_batch_per_core |  99.68750000
+Step  21400: eval                    accuracy |  0.27853319
+Step  21400: eval                        loss |  4.50507784
+Step  21400: eval          neg_log_perplexity | -4.50507784
+Step  21400: eval           sequence_accuracy |  0.00000000
+Step  21400: eval  weights_per_batch_per_core |  79.80000305
+Step  21400: Finished evaluation
+
+Step  21600: Ran 200 train steps in 48.49 secs
+Step  21600: Evaluation
+Step  21600: train                   accuracy |  0.25745615
+Step  21600: train                       loss |  4.53403664
+Step  21600: train         neg_log_perplexity | -4.53403664
+Step  21600: train          sequence_accuracy |  0.00000000
+Step  21600: train weights_per_batch_per_core |  97.47499847
+Step  21600: eval                    accuracy |  0.29888365
+Step  21600: eval                        loss |  4.27971268
+Step  21600: eval          neg_log_perplexity | -4.27971268
+Step  21600: eval           sequence_accuracy |  0.00000000
+Step  21600: eval  weights_per_batch_per_core |  76.53749847
+Step  21600: Finished evaluation
+
+Step  21800: Ran 200 train steps in 48.20 secs
+Step  21800: Evaluation
+Step  21800: train                   accuracy |  0.26345113
+Step  21800: train                       loss |  4.49577093
+Step  21800: train         neg_log_perplexity | -4.49577093
+Step  21800: train          sequence_accuracy |  0.00000000
+Step  21800: train weights_per_batch_per_core |  90.36250305
+Step  21800: eval                    accuracy |  0.28391996
+Step  21800: eval                        loss |  4.38494539
+Step  21800: eval          neg_log_perplexity | -4.38494539
+Step  21800: eval           sequence_accuracy |  0.00000000
+Step  21800: eval  weights_per_batch_per_core |  78.66249847
+Step  21800: Finished evaluation
+
+Step  22000: Ran 200 train steps in 48.20 secs
+Step  22000: Evaluation
+Step  22000: train                   accuracy |  0.27085003
+Step  22000: train                       loss |  4.50167084
+Step  22000: train         neg_log_perplexity | -4.50167084
+Step  22000: train          sequence_accuracy |  0.00000000
+Step  22000: train weights_per_batch_per_core |  91.98750305
+Step  22000: eval                    accuracy |  0.29605964
+Step  22000: eval                        loss |  4.32884550
+Step  22000: eval          neg_log_perplexity | -4.32884550
+Step  22000: eval           sequence_accuracy |  0.00000000
+Step  22000: eval  weights_per_batch_per_core |  78.50000000
+Step  22000: Finished evaluation
+
+Step  22200: Ran 200 train steps in 51.10 secs
+Step  22200: Evaluation
+Step  22200: train                   accuracy |  0.26802370
+Step  22200: train                       loss |  4.46815252
+Step  22200: train         neg_log_perplexity | -4.46815252
+Step  22200: train          sequence_accuracy |  0.00000000
+Step  22200: train weights_per_batch_per_core |  102.84999847
+Step  22200: eval                    accuracy |  0.28358033
+Step  22200: eval                        loss |  4.27264929
+Step  22200: eval          neg_log_perplexity | -4.27264929
+Step  22200: eval           sequence_accuracy |  0.00000000
+Step  22200: eval  weights_per_batch_per_core |  86.23750305
+Step  22200: Finished evaluation
+
+Step  22400: Ran 200 train steps in 51.00 secs
+Step  22400: Evaluation
+Step  22400: train                   accuracy |  0.25952151
+Step  22400: train                       loss |  4.51039267
+Step  22400: train         neg_log_perplexity | -4.51039267
+Step  22400: train          sequence_accuracy |  0.00000000
+Step  22400: train weights_per_batch_per_core |  93.72499847
+Step  22400: eval                    accuracy |  0.28430972
+Step  22400: eval                        loss |  4.35398436
+Step  22400: eval          neg_log_perplexity | -4.35398436
+Step  22400: eval           sequence_accuracy |  0.00000000
+Step  22400: eval  weights_per_batch_per_core |  86.38750458
+Step  22400: Finished evaluation
+
+Step  22600: Ran 200 train steps in 51.03 secs
+Step  22600: Evaluation
+Step  22600: train                   accuracy |  0.26694211
+Step  22600: train                       loss |  4.41949272
+Step  22600: train         neg_log_perplexity | -4.41949272
+Step  22600: train          sequence_accuracy |  0.00000000
+Step  22600: train weights_per_batch_per_core |  96.01250458
+Step  22600: eval                    accuracy |  0.27645341
+Step  22600: eval                        loss |  4.51623678
+Step  22600: eval          neg_log_perplexity | -4.51623678
+Step  22600: eval           sequence_accuracy |  0.00000000
+Step  22600: eval  weights_per_batch_per_core |  81.66249847
+Step  22600: Finished evaluation
+
+Step  22800: Ran 200 train steps in 50.88 secs
+Step  22800: Evaluation
+Step  22800: train                   accuracy |  0.27194983
+Step  22800: train                       loss |  4.43817520
+Step  22800: train         neg_log_perplexity | -4.43817520
+Step  22800: train          sequence_accuracy |  0.00000000
+Step  22800: train weights_per_batch_per_core |  75.00000000
+Step  22800: eval                    accuracy |  0.29197827
+Step  22800: eval                        loss |  4.27624607
+Step  22800: eval          neg_log_perplexity | -4.27624607
+Step  22800: eval           sequence_accuracy |  0.00000000
+Step  22800: eval  weights_per_batch_per_core |  82.73750305
+Step  22800: Finished evaluation
+
+Step  23000: Ran 200 train steps in 49.43 secs
+Step  23000: Evaluation
+Step  23000: train                   accuracy |  0.27057275
+Step  23000: train                       loss |  4.46104574
+Step  23000: train         neg_log_perplexity | -4.46104574
+Step  23000: train          sequence_accuracy |  0.00000000
+Step  23000: train weights_per_batch_per_core |  89.61250305
+Step  23000: eval                    accuracy |  0.29772350
+Step  23000: eval                        loss |  4.33065414
+Step  23000: eval          neg_log_perplexity | -4.33065414
+Step  23000: eval           sequence_accuracy |  0.00000000
+Step  23000: eval  weights_per_batch_per_core |  79.18750000
+Step  23000: Finished evaluation
+
+Step  23200: Ran 200 train steps in 50.41 secs
+Step  23200: Evaluation
+Step  23200: train                   accuracy |  0.27405027
+Step  23200: train                       loss |  4.45159435
+Step  23200: train         neg_log_perplexity | -4.45159435
+Step  23200: train          sequence_accuracy |  0.00000000
+Step  23200: train weights_per_batch_per_core |  115.62500000
+Step  23200: eval                    accuracy |  0.29438171
+Step  23200: eval                        loss |  4.32447052
+Step  23200: eval          neg_log_perplexity | -4.32447052
+Step  23200: eval           sequence_accuracy |  0.00000000
+Step  23200: eval  weights_per_batch_per_core |  83.32500458
+Step  23200: Finished evaluation
+
+Step  23400: Ran 200 train steps in 51.77 secs
+Step  23400: Evaluation
+Step  23400: train                   accuracy |  0.26136467
+Step  23400: train                       loss |  4.48475647
+Step  23400: train         neg_log_perplexity | -4.48475647
+Step  23400: train          sequence_accuracy |  0.00000000
+Step  23400: train weights_per_batch_per_core |  113.40000153
+Step  23400: eval                    accuracy |  0.29789725
+Step  23400: eval                        loss |  4.34236479
+Step  23400: eval          neg_log_perplexity | -4.34236479
+Step  23400: eval           sequence_accuracy |  0.00000000
+Step  23400: eval  weights_per_batch_per_core |  77.07500458
+Step  23400: Finished evaluation
+
+Step  23600: Ran 200 train steps in 51.28 secs
+Step  23600: Evaluation
+Step  23600: train                   accuracy |  0.26290402
+Step  23600: train                       loss |  4.46530104
+Step  23600: train         neg_log_perplexity | -4.46530104
+Step  23600: train          sequence_accuracy |  0.00000000
+Step  23600: train weights_per_batch_per_core |  96.96250153
+Step  23600: eval                    accuracy |  0.30092832
+Step  23600: eval                        loss |  4.17042017
+Step  23600: eval          neg_log_perplexity | -4.17042017
+Step  23600: eval           sequence_accuracy |  0.00000000
+Step  23600: eval  weights_per_batch_per_core |  88.68750000
+Step  23600: Finished evaluation
+
+Step  23800: Ran 200 train steps in 52.63 secs
+Step  23800: Evaluation
+Step  23800: train                   accuracy |  0.27804014
+Step  23800: train                       loss |  4.38535881
+Step  23800: train         neg_log_perplexity | -4.38535881
+Step  23800: train          sequence_accuracy |  0.00000000
+Step  23800: train weights_per_batch_per_core |  101.41249847
+Step  23800: eval                    accuracy |  0.29705498
+Step  23800: eval                        loss |  4.33744907
+Step  23800: eval          neg_log_perplexity | -4.33744907
+Step  23800: eval           sequence_accuracy |  0.00000000
+Step  23800: eval  weights_per_batch_per_core |  85.32500458
+Step  23800: Finished evaluation
+
+Step  24000: Ran 200 train steps in 51.41 secs
+Step  24000: Evaluation
+Step  24000: train                   accuracy |  0.27307042
+Step  24000: train                       loss |  4.47521353
+Step  24000: train         neg_log_perplexity | -4.47521353
+Step  24000: train          sequence_accuracy |  0.00000000
+Step  24000: train weights_per_batch_per_core |  102.82500458
+Step  24000: eval                    accuracy |  0.28451580
+Step  24000: eval                        loss |  4.36674929
+Step  24000: eval          neg_log_perplexity | -4.36674929
+Step  24000: eval           sequence_accuracy |  0.00000000
+Step  24000: eval  weights_per_batch_per_core |  84.34999847
+Step  24000: Finished evaluation
+
+Step  24200: Ran 200 train steps in 50.55 secs
+Step  24200: Evaluation
+Step  24200: train                   accuracy |  0.27338010
+Step  24200: train                       loss |  4.40963268
+Step  24200: train         neg_log_perplexity | -4.40963268
+Step  24200: train          sequence_accuracy |  0.00000000
+Step  24200: train weights_per_batch_per_core |  113.45000458
+Step  24200: eval                    accuracy |  0.30424732
+Step  24200: eval                        loss |  4.23099375
+Step  24200: eval          neg_log_perplexity | -4.23099375
+Step  24200: eval           sequence_accuracy |  0.00000000
+Step  24200: eval  weights_per_batch_per_core |  80.03749847
+Step  24200: Finished evaluation
+
+Step  24400: Ran 200 train steps in 51.17 secs
+Step  24400: Evaluation
+Step  24400: train                   accuracy |  0.28057814
+Step  24400: train                       loss |  4.35289335
+Step  24400: train         neg_log_perplexity | -4.35289335
+Step  24400: train          sequence_accuracy |  0.00000000
+Step  24400: train weights_per_batch_per_core |  105.90000153
+Step  24400: eval                    accuracy |  0.28905845
+Step  24400: eval                        loss |  4.26910353
+Step  24400: eval          neg_log_perplexity | -4.26910353
+Step  24400: eval           sequence_accuracy |  0.00000000
+Step  24400: eval  weights_per_batch_per_core |  76.97499847
+Step  24400: Finished evaluation
+
+Step  24600: Ran 200 train steps in 84.01 secs
+Step  24600: Evaluation
+Step  24600: train                   accuracy |  0.30317491
+Step  24600: train                       loss |  4.08154535
+Step  24600: train         neg_log_perplexity | -4.08154535
+Step  24600: train          sequence_accuracy |  0.00000000
+Step  24600: train weights_per_batch_per_core |  87.01250458
+Step  24600: eval                    accuracy |  0.29942200
+Step  24600: eval                        loss |  4.28300476
+Step  24600: eval          neg_log_perplexity | -4.28300476
+Step  24600: eval           sequence_accuracy |  0.00000000
+Step  24600: eval  weights_per_batch_per_core |  76.06250000
+Step  24600: Finished evaluation
+
+Step  24800: Ran 200 train steps in 51.14 secs
+Step  24800: Evaluation
+Step  24800: train                   accuracy |  0.30505881
+Step  24800: train                       loss |  3.97314000
+Step  24800: train         neg_log_perplexity | -3.97314000
+Step  24800: train          sequence_accuracy |  0.00000000
+Step  24800: train weights_per_batch_per_core |  105.31250000
+Step  24800: eval                    accuracy |  0.29463693
+Step  24800: eval                        loss |  4.19631433
+Step  24800: eval          neg_log_perplexity | -4.19631433
+Step  24800: eval           sequence_accuracy |  0.00000000
+Step  24800: eval  weights_per_batch_per_core |  81.38750458
+Step  24800: Finished evaluation
+
+Step  25000: Ran 200 train steps in 50.45 secs
+Step  25000: Evaluation
+Step  25000: train                   accuracy |  0.31096813
+Step  25000: train                       loss |  3.97490048
+Step  25000: train         neg_log_perplexity | -3.97490048
+Step  25000: train          sequence_accuracy |  0.00000000
+Step  25000: train weights_per_batch_per_core |  117.67500305
+Step  25000: eval                    accuracy |  0.28380695
+Step  25000: eval                        loss |  4.37641287
+Step  25000: eval          neg_log_perplexity | -4.37641287
+Step  25000: eval           sequence_accuracy |  0.00000000
+Step  25000: eval  weights_per_batch_per_core |  82.45000458
+Step  25000: Finished evaluation
+
+Step  25200: Ran 200 train steps in 52.63 secs
+Step  25200: Evaluation
+Step  25200: train                   accuracy |  0.31309605
+Step  25200: train                       loss |  3.91403508
+Step  25200: train         neg_log_perplexity | -3.91403508
+Step  25200: train          sequence_accuracy |  0.00000000
+Step  25200: train weights_per_batch_per_core |  88.26250458
+Step  25200: eval                    accuracy |  0.30681130
+Step  25200: eval                        loss |  4.21504068
+Step  25200: eval          neg_log_perplexity | -4.21504068
+Step  25200: eval           sequence_accuracy |  0.00000000
+Step  25200: eval  weights_per_batch_per_core |  81.18750000
+Step  25200: Finished evaluation
+
+Step  25400: Ran 200 train steps in 51.00 secs
+Step  25400: Evaluation
+Step  25400: train                   accuracy |  0.30141810
+Step  25400: train                       loss |  3.96004534
+Step  25400: train         neg_log_perplexity | -3.96004534
+Step  25400: train          sequence_accuracy |  0.00000000
+Step  25400: train weights_per_batch_per_core |  126.61250305
+Step  25400: eval                    accuracy |  0.27674311
+Step  25400: eval                        loss |  4.40380239
+Step  25400: eval          neg_log_perplexity | -4.40380239
+Step  25400: eval           sequence_accuracy |  0.00000000
+Step  25400: eval  weights_per_batch_per_core |  83.45000458
+Step  25400: Finished evaluation
+
+Step  25600: Ran 200 train steps in 51.34 secs
+Step  25600: Evaluation
+Step  25600: train                   accuracy |  0.29614416
+Step  25600: train                       loss |  4.06370354
+Step  25600: train         neg_log_perplexity | -4.06370354
+Step  25600: train          sequence_accuracy |  0.00000000
+Step  25600: train weights_per_batch_per_core |  87.62500000
+Step  25600: eval                    accuracy |  0.29532349
+Step  25600: eval                        loss |  4.25237989
+Step  25600: eval          neg_log_perplexity | -4.25237989
+Step  25600: eval           sequence_accuracy |  0.00000000
+Step  25600: eval  weights_per_batch_per_core |  82.98750305
+Step  25600: Finished evaluation
+
+Step  25800: Ran 200 train steps in 49.50 secs
+Step  25800: Evaluation
+Step  25800: train                   accuracy |  0.28288162
+Step  25800: train                       loss |  4.11591005
+Step  25800: train         neg_log_perplexity | -4.11591005
+Step  25800: train          sequence_accuracy |  0.00000000
+Step  25800: train weights_per_batch_per_core |  107.87500000
+Step  25800: eval                    accuracy |  0.29620257
+Step  25800: eval                        loss |  4.20102835
+Step  25800: eval          neg_log_perplexity | -4.20102835
+Step  25800: eval           sequence_accuracy |  0.00000000
+Step  25800: eval  weights_per_batch_per_core |  79.34999847
+Step  25800: Finished evaluation
+
+Step  26000: Ran 200 train steps in 47.98 secs
+Step  26000: Evaluation
+Step  26000: train                   accuracy |  0.30853194
+Step  26000: train                       loss |  3.90387201
+Step  26000: train         neg_log_perplexity | -3.90387201
+Step  26000: train          sequence_accuracy |  0.00000000
+Step  26000: train weights_per_batch_per_core |  99.11250305
+Step  26000: eval                    accuracy |  0.29109335
+Step  26000: eval                        loss |  4.35797405
+Step  26000: eval          neg_log_perplexity | -4.35797405
+Step  26000: eval           sequence_accuracy |  0.00000000
+Step  26000: eval  weights_per_batch_per_core |  81.77500153
+Step  26000: Finished evaluation
+
+Step  26200: Ran 200 train steps in 48.02 secs
+Step  26200: Evaluation
+Step  26200: train                   accuracy |  0.29523268
+Step  26200: train                       loss |  4.03598881
+Step  26200: train         neg_log_perplexity | -4.03598881
+Step  26200: train          sequence_accuracy |  0.00000000
+Step  26200: train weights_per_batch_per_core |  114.03749847
+Step  26200: eval                    accuracy |  0.30458692
+Step  26200: eval                        loss |  4.22547483
+Step  26200: eval          neg_log_perplexity | -4.22547483
+Step  26200: eval           sequence_accuracy |  0.00000000
+Step  26200: eval  weights_per_batch_per_core |  76.56250000
+Step  26200: Finished evaluation
+
+Step  26400: Ran 200 train steps in 49.45 secs
+Step  26400: Evaluation
+Step  26400: train                   accuracy |  0.29657525
+Step  26400: train                       loss |  3.97103167
+Step  26400: train         neg_log_perplexity | -3.97103167
+Step  26400: train          sequence_accuracy |  0.00000000
+Step  26400: train weights_per_batch_per_core |  88.38750458
+Step  26400: eval                    accuracy |  0.29577437
+Step  26400: eval                        loss |  4.35072565
+Step  26400: eval          neg_log_perplexity | -4.35072565
+Step  26400: eval           sequence_accuracy |  0.00000000
+Step  26400: eval  weights_per_batch_per_core |  74.86250305
+Step  26400: Finished evaluation
+
+Step  26600: Ran 200 train steps in 49.23 secs
+Step  26600: Evaluation
+Step  26600: train                   accuracy |  0.29659757
+Step  26600: train                       loss |  4.07081461
+Step  26600: train         neg_log_perplexity | -4.07081461
+Step  26600: train          sequence_accuracy |  0.00000000
+Step  26600: train weights_per_batch_per_core |  114.08750153
+Step  26600: eval                    accuracy |  0.29360899
+Step  26600: eval                        loss |  4.36819458
+Step  26600: eval          neg_log_perplexity | -4.36819458
+Step  26600: eval           sequence_accuracy |  0.00000000
+Step  26600: eval  weights_per_batch_per_core |  85.73750305
+Step  26600: Finished evaluation
+
+Step  26800: Ran 200 train steps in 47.41 secs
+Step  26800: Evaluation
+Step  26800: train                   accuracy |  0.28901377
+Step  26800: train                       loss |  4.09520435
+Step  26800: train         neg_log_perplexity | -4.09520435
+Step  26800: train          sequence_accuracy |  0.00000000
+Step  26800: train weights_per_batch_per_core |  87.46250153
+Step  26800: eval                    accuracy |  0.31266224
+Step  26800: eval                        loss |  4.15008783
+Step  26800: eval          neg_log_perplexity | -4.15008783
+Step  26800: eval           sequence_accuracy |  0.00000000
+Step  26800: eval  weights_per_batch_per_core |  76.87500000
+Step  26800: Finished evaluation
+
+Step  27000: Ran 200 train steps in 48.65 secs
+Step  27000: Evaluation
+Step  27000: train                   accuracy |  0.29564410
+Step  27000: train                       loss |  4.05643988
+Step  27000: train         neg_log_perplexity | -4.05643988
+Step  27000: train          sequence_accuracy |  0.00000000
+Step  27000: train weights_per_batch_per_core |  143.65000916
+Step  27000: eval                    accuracy |  0.28619987
+Step  27000: eval                        loss |  4.25586462
+Step  27000: eval          neg_log_perplexity | -4.25586462
+Step  27000: eval           sequence_accuracy |  0.00000000
+Step  27000: eval  weights_per_batch_per_core |  78.53749847
+Step  27000: Finished evaluation
+
+Step  27200: Ran 200 train steps in 47.73 secs
+Step  27200: Evaluation
+Step  27200: train                   accuracy |  0.28987175
+Step  27200: train                       loss |  4.09059429
+Step  27200: train         neg_log_perplexity | -4.09059429
+Step  27200: train          sequence_accuracy |  0.00000000
+Step  27200: train weights_per_batch_per_core |  90.36250305
+Step  27200: eval                    accuracy |  0.29985571
+Step  27200: eval                        loss |  4.22641993
+Step  27200: eval          neg_log_perplexity | -4.22641993
+Step  27200: eval           sequence_accuracy |  0.00000000
+Step  27200: eval  weights_per_batch_per_core |  87.23750305
+Step  27200: Finished evaluation
+
+Step  27400: Ran 200 train steps in 50.97 secs
+Step  27400: Evaluation
+Step  27400: train                   accuracy |  0.28498363
+Step  27400: train                       loss |  4.12991095
+Step  27400: train         neg_log_perplexity | -4.12991095
+Step  27400: train          sequence_accuracy |  0.00000000
+Step  27400: train weights_per_batch_per_core |  88.95000458
+Step  27400: eval                    accuracy |  0.28042984
+Step  27400: eval                        loss |  4.41650057
+Step  27400: eval          neg_log_perplexity | -4.41650057
+Step  27400: eval           sequence_accuracy |  0.00000000
+Step  27400: eval  weights_per_batch_per_core |  78.91249847
+Step  27400: Finished evaluation
+
+Step  27600: Ran 200 train steps in 51.03 secs
+Step  27600: Evaluation
+Step  27600: train                   accuracy |  0.30329540
+Step  27600: train                       loss |  4.00253630
+Step  27600: train         neg_log_perplexity | -4.00253630
+Step  27600: train          sequence_accuracy |  0.00000000
+Step  27600: train weights_per_batch_per_core |  106.66249847
+Step  27600: eval                    accuracy |  0.31897077
+Step  27600: eval                        loss |  4.08208132
+Step  27600: eval          neg_log_perplexity | -4.08208132
+Step  27600: eval           sequence_accuracy |  0.00000000
+Step  27600: eval  weights_per_batch_per_core |  76.84999847
+Step  27600: Finished evaluation
+
+Step  27800: Ran 200 train steps in 50.99 secs
+Step  27800: Evaluation
+Step  27800: train                   accuracy |  0.28668579
+Step  27800: train                       loss |  4.14945745
+Step  27800: train         neg_log_perplexity | -4.14945745
+Step  27800: train          sequence_accuracy |  0.00000000
+Step  27800: train weights_per_batch_per_core |  120.59999847
+Step  27800: eval                    accuracy |  0.28661367
+Step  27800: eval                        loss |  4.33071470
+Step  27800: eval          neg_log_perplexity | -4.33071470
+Step  27800: eval           sequence_accuracy |  0.00000000
+Step  27800: eval  weights_per_batch_per_core |  78.15000153
+Step  27800: Finished evaluation
+
+Step  28000: Ran 200 train steps in 50.74 secs
+Step  28000: Evaluation
+Step  28000: train                   accuracy |  0.29597983
+Step  28000: train                       loss |  4.13413954
+Step  28000: train         neg_log_perplexity | -4.13413954
+Step  28000: train          sequence_accuracy |  0.00000000
+Step  28000: train weights_per_batch_per_core |  98.66249847
+Step  28000: eval                    accuracy |  0.29242727
+Step  28000: eval                        loss |  4.34213352
+Step  28000: eval          neg_log_perplexity | -4.34213352
+Step  28000: eval           sequence_accuracy |  0.00000000
+Step  28000: eval  weights_per_batch_per_core |  84.06250000
+Step  28000: Finished evaluation
+
+Step  28200: Ran 200 train steps in 50.14 secs
+Step  28200: Evaluation
+Step  28200: train                   accuracy |  0.28076547
+Step  28200: train                       loss |  4.11988020
+Step  28200: train         neg_log_perplexity | -4.11988020
+Step  28200: train          sequence_accuracy |  0.00000000
+Step  28200: train weights_per_batch_per_core |  93.42500305
+Step  28200: eval                    accuracy |  0.28988335
+Step  28200: eval                        loss |  4.38441563
+Step  28200: eval          neg_log_perplexity | -4.38441563
+Step  28200: eval           sequence_accuracy |  0.00000000
+Step  28200: eval  weights_per_batch_per_core |  77.13750458
+Step  28200: Finished evaluation
+
+Step  28400: Ran 200 train steps in 51.76 secs
+Step  28400: Evaluation
+Step  28400: train                   accuracy |  0.29201147
+Step  28400: train                       loss |  4.08748960
+Step  28400: train         neg_log_perplexity | -4.08748960
+Step  28400: train          sequence_accuracy |  0.00000000
+Step  28400: train weights_per_batch_per_core |  101.95000458
+Step  28400: eval                    accuracy |  0.30273703
+Step  28400: eval                        loss |  4.21457148
+Step  28400: eval          neg_log_perplexity | -4.21457148
+Step  28400: eval           sequence_accuracy |  0.00000000
+Step  28400: eval  weights_per_batch_per_core |  80.12500000
+Step  28400: Finished evaluation
+
+Step  28600: Ran 200 train steps in 52.49 secs
+Step  28600: Evaluation
+Step  28600: train                   accuracy |  0.29422861
+Step  28600: train                       loss |  4.15843487
+Step  28600: train         neg_log_perplexity | -4.15843487
+Step  28600: train          sequence_accuracy |  0.00000000
+Step  28600: train weights_per_batch_per_core |  96.09999847
+Step  28600: eval                    accuracy |  0.29000568
+Step  28600: eval                        loss |  4.30818844
+Step  28600: eval          neg_log_perplexity | -4.30818844
+Step  28600: eval           sequence_accuracy |  0.00000000
+Step  28600: eval  weights_per_batch_per_core |  76.17500305
+Step  28600: Finished evaluation
+
+Step  28800: Ran 200 train steps in 52.27 secs
+Step  28800: Evaluation
+Step  28800: train                   accuracy |  0.27473965
+Step  28800: train                       loss |  4.20545435
+Step  28800: train         neg_log_perplexity | -4.20545435
+Step  28800: train          sequence_accuracy |  0.00000000
+Step  28800: train weights_per_batch_per_core |  103.78749847
+Step  28800: eval                    accuracy |  0.29713628
+Step  28800: eval                        loss |  4.27904320
+Step  28800: eval          neg_log_perplexity | -4.27904320
+Step  28800: eval           sequence_accuracy |  0.00000000
+Step  28800: eval  weights_per_batch_per_core |  80.76250458
+Step  28800: Finished evaluation
+
+Step  29000: Ran 200 train steps in 50.65 secs
+Step  29000: Evaluation
+Step  29000: train                   accuracy |  0.29464141
+Step  29000: train                       loss |  4.09347057
+Step  29000: train         neg_log_perplexity | -4.09347057
+Step  29000: train          sequence_accuracy |  0.00000000
+Step  29000: train weights_per_batch_per_core |  97.80000305
+Step  29000: eval                    accuracy |  0.30127156
+Step  29000: eval                        loss |  4.21291113
+Step  29000: eval          neg_log_perplexity | -4.21291113
+Step  29000: eval           sequence_accuracy |  0.00000000
+Step  29000: eval  weights_per_batch_per_core |  81.26250458
+Step  29000: Finished evaluation
+
+Step  29200: Ran 200 train steps in 50.65 secs
+Step  29200: Evaluation
+Step  29200: train                   accuracy |  0.29541859
+Step  29200: train                       loss |  4.10638952
+Step  29200: train         neg_log_perplexity | -4.10638952
+Step  29200: train          sequence_accuracy |  0.00000000
+Step  29200: train weights_per_batch_per_core |  98.82500458
+Step  29200: eval                    accuracy |  0.30622137
+Step  29200: eval                        loss |  4.25446939
+Step  29200: eval          neg_log_perplexity | -4.25446939
+Step  29200: eval           sequence_accuracy |  0.00000000
+Step  29200: eval  weights_per_batch_per_core |  79.93750000
+Step  29200: Finished evaluation
+
+Step  29400: Ran 200 train steps in 52.93 secs
+Step  29400: Evaluation
+Step  29400: train                   accuracy |  0.29628477
+Step  29400: train                       loss |  4.11323833
+Step  29400: train         neg_log_perplexity | -4.11323833
+Step  29400: train          sequence_accuracy |  0.00000000
+Step  29400: train weights_per_batch_per_core |  96.25000000
+Step  29400: eval                    accuracy |  0.30461988
+Step  29400: eval                        loss |  4.21430922
+Step  29400: eval          neg_log_perplexity | -4.21430922
+Step  29400: eval           sequence_accuracy |  0.00000000
+Step  29400: eval  weights_per_batch_per_core |  77.91249847
+Step  29400: Finished evaluation
+
+Step  29600: Ran 200 train steps in 51.61 secs
+Step  29600: Evaluation
+Step  29600: train                   accuracy |  0.29497853
+Step  29600: train                       loss |  4.06317854
+Step  29600: train         neg_log_perplexity | -4.06317854
+Step  29600: train          sequence_accuracy |  0.00000000
+Step  29600: train weights_per_batch_per_core |  104.91249847
+Step  29600: eval                    accuracy |  0.30091929
+Step  29600: eval                        loss |  4.21866179
+Step  29600: eval          neg_log_perplexity | -4.21866179
+Step  29600: eval           sequence_accuracy |  0.00000000
+Step  29600: eval  weights_per_batch_per_core |  74.37500000
+Step  29600: Finished evaluation
+
+Step  29800: Ran 200 train steps in 50.23 secs
+Step  29800: Evaluation
+Step  29800: train                   accuracy |  0.28261894
+Step  29800: train                       loss |  4.10927868
+Step  29800: train         neg_log_perplexity | -4.10927868
+Step  29800: train          sequence_accuracy |  0.00000000
+Step  29800: train weights_per_batch_per_core |  101.82500458
+Step  29800: eval                    accuracy |  0.29663309
+Step  29800: eval                        loss |  4.27651930
+Step  29800: eval          neg_log_perplexity | -4.27651930
+Step  29800: eval           sequence_accuracy |  0.00000000
+Step  29800: eval  weights_per_batch_per_core |  80.13750458
+Step  29800: Finished evaluation
+
+Step  30000: Ran 200 train steps in 49.67 secs
+Step  30000: Evaluation
+Step  30000: train                   accuracy |  0.27433401
+Step  30000: train                       loss |  4.23299217
+Step  30000: train         neg_log_perplexity | -4.23299217
+Step  30000: train          sequence_accuracy |  0.00000000
+Step  30000: train weights_per_batch_per_core |  96.98750305
+Step  30000: eval                    accuracy |  0.30995646
+Step  30000: eval                        loss |  4.11865425
+Step  30000: eval          neg_log_perplexity | -4.11865425
+Step  30000: eval           sequence_accuracy |  0.00000000
+Step  30000: eval  weights_per_batch_per_core |  79.57500458
+Step  30000: Finished evaluation
+
+Step  30200: Ran 200 train steps in 47.66 secs
+Step  30200: Evaluation
+Step  30200: train                   accuracy |  0.28499803
+Step  30200: train                       loss |  4.23089027
+Step  30200: train         neg_log_perplexity | -4.23089027
+Step  30200: train          sequence_accuracy |  0.00000000
+Step  30200: train weights_per_batch_per_core |  121.15000153
+Step  30200: eval                    accuracy |  0.29271486
+Step  30200: eval                        loss |  4.34219122
+Step  30200: eval          neg_log_perplexity | -4.34219122
+Step  30200: eval           sequence_accuracy |  0.00000000
+Step  30200: eval  weights_per_batch_per_core |  86.67500305
+Step  30200: Finished evaluation
+
+Step  30400: Ran 200 train steps in 50.15 secs
+Step  30400: Evaluation
+Step  30400: train                   accuracy |  0.28794575
+Step  30400: train                       loss |  4.15221262
+Step  30400: train         neg_log_perplexity | -4.15221262
+Step  30400: train          sequence_accuracy |  0.00000000
+Step  30400: train weights_per_batch_per_core |  101.65000153
+Step  30400: eval                    accuracy |  0.31908837
+Step  30400: eval                        loss |  4.07526731
+Step  30400: eval          neg_log_perplexity | -4.07526731
+Step  30400: eval           sequence_accuracy |  0.00000000
+Step  30400: eval  weights_per_batch_per_core |  77.92500305
+Step  30400: Finished evaluation
+
+Step  30600: Ran 200 train steps in 49.54 secs
+Step  30600: Evaluation
+Step  30600: train                   accuracy |  0.29256085
+Step  30600: train                       loss |  4.09177399
+Step  30600: train         neg_log_perplexity | -4.09177399
+Step  30600: train          sequence_accuracy |  0.00000000
+Step  30600: train weights_per_batch_per_core |  113.25000000
+Step  30600: eval                    accuracy |  0.30402562
+Step  30600: eval                        loss |  4.24422312
+Step  30600: eval          neg_log_perplexity | -4.24422312
+Step  30600: eval           sequence_accuracy |  0.00000000
+Step  30600: eval  weights_per_batch_per_core |  78.67500305
+Step  30600: Finished evaluation
+
+Step  30800: Ran 200 train steps in 47.46 secs
+Step  30800: Evaluation
+Step  30800: train                   accuracy |  0.29609835
+Step  30800: train                       loss |  4.08026981
+Step  30800: train         neg_log_perplexity | -4.08026981
+Step  30800: train          sequence_accuracy |  0.00000000
+Step  30800: train weights_per_batch_per_core |  114.73750305
+Step  30800: eval                    accuracy |  0.30382997
+Step  30800: eval                        loss |  4.23756361
+Step  30800: eval          neg_log_perplexity | -4.23756361
+Step  30800: eval           sequence_accuracy |  0.00000000
+Step  30800: eval  weights_per_batch_per_core |  82.50000000
+Step  30800: Finished evaluation
+
+Step  31000: Ran 200 train steps in 50.18 secs
+Step  31000: Evaluation
+Step  31000: train                   accuracy |  0.28960863
+Step  31000: train                       loss |  4.14481306
+Step  31000: train         neg_log_perplexity | -4.14481306
+Step  31000: train          sequence_accuracy |  0.00000000
+Step  31000: train weights_per_batch_per_core |  82.45000458
+Step  31000: eval                    accuracy |  0.31009305
+Step  31000: eval                        loss |  4.20262718
+Step  31000: eval          neg_log_perplexity | -4.20262718
+Step  31000: eval           sequence_accuracy |  0.00000000
+Step  31000: eval  weights_per_batch_per_core |  81.51250458
+Step  31000: Finished evaluation
+
+Step  31200: Ran 200 train steps in 47.89 secs
+Step  31200: Evaluation
+Step  31200: train                   accuracy |  0.29776138
+Step  31200: train                       loss |  4.03537083
+Step  31200: train         neg_log_perplexity | -4.03537083
+Step  31200: train          sequence_accuracy |  0.00000000
+Step  31200: train weights_per_batch_per_core |  88.92500305
+Step  31200: eval                    accuracy |  0.30777258
+Step  31200: eval                        loss |  4.13441038
+Step  31200: eval          neg_log_perplexity | -4.13441038
+Step  31200: eval           sequence_accuracy |  0.00000000
+Step  31200: eval  weights_per_batch_per_core |  76.37500000
+Step  31200: Finished evaluation
+
+Step  31400: Ran 200 train steps in 48.02 secs
+Step  31400: Evaluation
+Step  31400: train                   accuracy |  0.29335999
+Step  31400: train                       loss |  4.07042360
+Step  31400: train         neg_log_perplexity | -4.07042360
+Step  31400: train          sequence_accuracy |  0.00000000
+Step  31400: train weights_per_batch_per_core |  81.30000305
+Step  31400: eval                    accuracy |  0.30551511
+Step  31400: eval                        loss |  4.19166517
+Step  31400: eval          neg_log_perplexity | -4.19166517
+Step  31400: eval           sequence_accuracy |  0.00000000
+Step  31400: eval  weights_per_batch_per_core |  83.80000305
+Step  31400: Finished evaluation
+
+Step  31600: Ran 200 train steps in 47.72 secs
+Step  31600: Evaluation
+Step  31600: train                   accuracy |  0.29250440
+Step  31600: train                       loss |  4.09763670
+Step  31600: train         neg_log_perplexity | -4.09763670
+Step  31600: train          sequence_accuracy |  0.00000000
+Step  31600: train weights_per_batch_per_core |  137.35000610
+Step  31600: eval                    accuracy |  0.30049527
+Step  31600: eval                        loss |  4.30163431
+Step  31600: eval          neg_log_perplexity | -4.30163431
+Step  31600: eval           sequence_accuracy |  0.00000000
+Step  31600: eval  weights_per_batch_per_core |  82.78749847
+Step  31600: Finished evaluation
+
+Step  31800: Ran 200 train steps in 47.99 secs
+Step  31800: Evaluation
+Step  31800: train                   accuracy |  0.29083368
+Step  31800: train                       loss |  4.15181732
+Step  31800: train         neg_log_perplexity | -4.15181732
+Step  31800: train          sequence_accuracy |  0.00000000
+Step  31800: train weights_per_batch_per_core |  106.02500153
+Step  31800: eval                    accuracy |  0.31433508
+Step  31800: eval                        loss |  4.05977869
+Step  31800: eval          neg_log_perplexity | -4.05977869
+Step  31800: eval           sequence_accuracy |  0.00000000
+Step  31800: eval  weights_per_batch_per_core |  74.18750000
+Step  31800: Finished evaluation
+
+Step  32000: Ran 200 train steps in 47.58 secs
+Step  32000: Evaluation
+Step  32000: train                   accuracy |  0.29185048
+Step  32000: train                       loss |  4.07683086
+Step  32000: train         neg_log_perplexity | -4.07683086
+Step  32000: train          sequence_accuracy |  0.00000000
+Step  32000: train weights_per_batch_per_core |  105.91249847
+Step  32000: eval                    accuracy |  0.31051761
+Step  32000: eval                        loss |  4.10474062
+Step  32000: eval          neg_log_perplexity | -4.10474062
+Step  32000: eval           sequence_accuracy |  0.00000000
+Step  32000: eval  weights_per_batch_per_core |  79.08750153
+Step  32000: Finished evaluation
+
+Step  32200: Ran 200 train steps in 48.17 secs
+Step  32200: Evaluation
+Step  32200: train                   accuracy |  0.30164361
+Step  32200: train                       loss |  4.05937719
+Step  32200: train         neg_log_perplexity | -4.05937719
+Step  32200: train          sequence_accuracy |  0.00000000
+Step  32200: train weights_per_batch_per_core |  98.01250458
+Step  32200: eval                    accuracy |  0.29505205
+Step  32200: eval                        loss |  4.31500912
+Step  32200: eval          neg_log_perplexity | -4.31500912
+Step  32200: eval           sequence_accuracy |  0.00000000
+Step  32200: eval  weights_per_batch_per_core |  87.33750153
+Step  32200: Finished evaluation
+
+Step  32400: Ran 200 train steps in 48.13 secs
+Step  32400: Evaluation
+Step  32400: train                   accuracy |  0.29938492
+Step  32400: train                       loss |  4.07851028
+Step  32400: train         neg_log_perplexity | -4.07851028
+Step  32400: train          sequence_accuracy |  0.00000000
+Step  32400: train weights_per_batch_per_core |  122.01250458
+Step  32400: eval                    accuracy |  0.31190130
+Step  32400: eval                        loss |  4.20491314
+Step  32400: eval          neg_log_perplexity | -4.20491314
+Step  32400: eval           sequence_accuracy |  0.00000000
+Step  32400: eval  weights_per_batch_per_core |  78.86250305
+Step  32400: Finished evaluation
+
+Step  32600: Ran 200 train steps in 48.17 secs
+Step  32600: Evaluation
+Step  32600: train                   accuracy |  0.28516930
+Step  32600: train                       loss |  4.16894150
+Step  32600: train         neg_log_perplexity | -4.16894150
+Step  32600: train          sequence_accuracy |  0.00000000
+Step  32600: train weights_per_batch_per_core |  92.65000153
+Step  32600: eval                    accuracy |  0.29546210
+Step  32600: eval                        loss |  4.34256601
+Step  32600: eval          neg_log_perplexity | -4.34256601
+Step  32600: eval           sequence_accuracy |  0.00000000
+Step  32600: eval  weights_per_batch_per_core |  80.73750305
+Step  32600: Finished evaluation
+
+Step  32800: Ran 200 train steps in 48.36 secs
+Step  32800: Evaluation
+Step  32800: train                   accuracy |  0.30045807
+Step  32800: train                       loss |  4.09348202
+Step  32800: train         neg_log_perplexity | -4.09348202
+Step  32800: train          sequence_accuracy |  0.00000000
+Step  32800: train weights_per_batch_per_core |  104.28749847
+Step  32800: eval                    accuracy |  0.33490086
+Step  32800: eval                        loss |  3.94309664
+Step  32800: eval          neg_log_perplexity | -3.94309664
+Step  32800: eval           sequence_accuracy |  0.00000000
+Step  32800: eval  weights_per_batch_per_core |  77.09999847
+Step  32800: Finished evaluation
+
+Step  33000: Ran 200 train steps in 48.02 secs
+Step  33000: Evaluation
+Step  33000: train                   accuracy |  0.28827509
+Step  33000: train                       loss |  4.08103800
+Step  33000: train         neg_log_perplexity | -4.08103800
+Step  33000: train          sequence_accuracy |  0.00000000
+Step  33000: train weights_per_batch_per_core |  101.63750458
+Step  33000: eval                    accuracy |  0.30727544
+Step  33000: eval                        loss |  4.22702360
+Step  33000: eval          neg_log_perplexity | -4.22702360
+Step  33000: eval           sequence_accuracy |  0.00000000
+Step  33000: eval  weights_per_batch_per_core |  86.48750305
+Step  33000: Finished evaluation
+
+Step  33200: Ran 200 train steps in 46.93 secs
+Step  33200: Evaluation
+Step  33200: train                   accuracy |  0.30287278
+Step  33200: train                       loss |  4.06979704
+Step  33200: train         neg_log_perplexity | -4.06979704
+Step  33200: train          sequence_accuracy |  0.00000000
+Step  33200: train weights_per_batch_per_core |  93.63750458
+Step  33200: eval                    accuracy |  0.29838499
+Step  33200: eval                        loss |  4.27330542
+Step  33200: eval          neg_log_perplexity | -4.27330542
+Step  33200: eval           sequence_accuracy |  0.00000000
+Step  33200: eval  weights_per_batch_per_core |  81.86250305
+Step  33200: Finished evaluation
+
+Step  33400: Ran 200 train steps in 48.02 secs
+Step  33400: Evaluation
+Step  33400: train                   accuracy |  0.29383588
+Step  33400: train                       loss |  4.09885550
+Step  33400: train         neg_log_perplexity | -4.09885550
+Step  33400: train          sequence_accuracy |  0.00000000
+Step  33400: train weights_per_batch_per_core |  88.90000153
+Step  33400: eval                    accuracy |  0.31165063
+Step  33400: eval                        loss |  4.15164709
+Step  33400: eval          neg_log_perplexity | -4.15164709
+Step  33400: eval           sequence_accuracy |  0.00000000
+Step  33400: eval  weights_per_batch_per_core |  76.78749847
+Step  33400: Finished evaluation
+
+Step  33600: Ran 200 train steps in 49.44 secs
+Step  33600: Evaluation
+Step  33600: train                   accuracy |  0.29226181
+Step  33600: train                       loss |  4.13222599
+Step  33600: train         neg_log_perplexity | -4.13222599
+Step  33600: train          sequence_accuracy |  0.00000000
+Step  33600: train weights_per_batch_per_core |  118.58750153
+Step  33600: eval                    accuracy |  0.30086359
+Step  33600: eval                        loss |  4.24485636
+Step  33600: eval          neg_log_perplexity | -4.24485636
+Step  33600: eval           sequence_accuracy |  0.00000000
+Step  33600: eval  weights_per_batch_per_core |  81.28749847
+Step  33600: Finished evaluation
+
+Step  33800: Ran 200 train steps in 48.20 secs
+Step  33800: Evaluation
+Step  33800: train                   accuracy |  0.29528078
+Step  33800: train                       loss |  4.07726765
+Step  33800: train         neg_log_perplexity | -4.07726765
+Step  33800: train          sequence_accuracy |  0.00000000
+Step  33800: train weights_per_batch_per_core |  101.47499847
+Step  33800: eval                    accuracy |  0.30463040
+Step  33800: eval                        loss |  4.17585135
+Step  33800: eval          neg_log_perplexity | -4.17585135
+Step  33800: eval           sequence_accuracy |  0.00000000
+Step  33800: eval  weights_per_batch_per_core |  76.80000305
+Step  33800: Finished evaluation
+
+Step  34000: Ran 200 train steps in 49.43 secs
+Step  34000: Evaluation
+Step  34000: train                   accuracy |  0.29838297
+Step  34000: train                       loss |  4.12365294
+Step  34000: train         neg_log_perplexity | -4.12365294
+Step  34000: train          sequence_accuracy |  0.00000000
+Step  34000: train weights_per_batch_per_core |  103.52500153
+Step  34000: eval                    accuracy |  0.29637426
+Step  34000: eval                        loss |  4.44019794
+Step  34000: eval          neg_log_perplexity | -4.44019794
+Step  34000: eval           sequence_accuracy |  0.00000000
+Step  34000: eval  weights_per_batch_per_core |  86.13750458
+Step  34000: Finished evaluation
+
+Step  34200: Ran 200 train steps in 48.08 secs
+Step  34200: Evaluation
+Step  34200: train                   accuracy |  0.30362943
+Step  34200: train                       loss |  4.04794550
+Step  34200: train         neg_log_perplexity | -4.04794550
+Step  34200: train          sequence_accuracy |  0.00000000
+Step  34200: train weights_per_batch_per_core |  98.01250458
+Step  34200: eval                    accuracy |  0.29142347
+Step  34200: eval                        loss |  4.73820448
+Step  34200: eval          neg_log_perplexity | -4.73820448
+Step  34200: eval           sequence_accuracy |  0.00000000
+Step  34200: eval  weights_per_batch_per_core |  68.62500000
+Step  34200: Finished evaluation
+
+Step  34400: Ran 200 train steps in 47.61 secs
+Step  34400: Evaluation
+Step  34400: train                   accuracy |  0.29173285
+Step  34400: train                       loss |  4.21144056
+Step  34400: train         neg_log_perplexity | -4.21144056
+Step  34400: train          sequence_accuracy |  0.00000000
+Step  34400: train weights_per_batch_per_core |  93.02500153
+Step  34400: eval                    accuracy |  0.26134455
+Step  34400: eval                        loss |  5.32438612
+Step  34400: eval          neg_log_perplexity | -5.32438612
+Step  34400: eval           sequence_accuracy |  0.00000000
+Step  34400: eval  weights_per_batch_per_core |  74.43750000
+Step  34400: Finished evaluation
+
+Step  34600: Ran 200 train steps in 48.07 secs
+Step  34600: Evaluation
+Step  34600: train                   accuracy |  0.28838131
+Step  34600: train                       loss |  4.13523054
+Step  34600: train         neg_log_perplexity | -4.13523054
+Step  34600: train          sequence_accuracy |  0.00000000
+Step  34600: train weights_per_batch_per_core |  97.41249847
+Step  34600: eval                    accuracy |  0.23727699
+Step  34600: eval                        loss |  5.85268879
+Step  34600: eval          neg_log_perplexity | -5.85268879
+Step  34600: eval           sequence_accuracy |  0.00000000
+Step  34600: eval  weights_per_batch_per_core |  68.59999847
+Step  34600: Finished evaluation
+
+Step  34800: Ran 200 train steps in 48.00 secs
+Step  34800: Evaluation
+Step  34800: train                   accuracy |  0.30718741
+Step  34800: train                       loss |  3.98626876
+Step  34800: train         neg_log_perplexity | -3.98626876
+Step  34800: train          sequence_accuracy |  0.00000000
+Step  34800: train weights_per_batch_per_core |  108.06250000
+Step  34800: eval                    accuracy |  0.20583634
+Step  34800: eval                        loss |  6.46490479
+Step  34800: eval          neg_log_perplexity | -6.46490479
+Step  34800: eval           sequence_accuracy |  0.00000000
+Step  34800: eval  weights_per_batch_per_core |  66.50000000
+Step  34800: Finished evaluation
+
+Step  35000: Ran 200 train steps in 49.06 secs
+Step  35000: Evaluation
+Step  35000: train                   accuracy |  0.30140454
+Step  35000: train                       loss |  4.07138824
+Step  35000: train         neg_log_perplexity | -4.07138824
+Step  35000: train          sequence_accuracy |  0.00000000
+Step  35000: train weights_per_batch_per_core |  111.62500000
+Step  35000: eval                    accuracy |  0.20756483
+Step  35000: eval                        loss |  6.41756964
+Step  35000: eval          neg_log_perplexity | -6.41756964
+Step  35000: eval           sequence_accuracy |  0.00000000
+Step  35000: eval  weights_per_batch_per_core |  65.67500305
+Step  35000: Finished evaluation
+
+Step  35200: Ran 200 train steps in 47.86 secs
+Step  35200: Evaluation
+Step  35200: train                   accuracy |  0.30357903
+Step  35200: train                       loss |  4.12399435
+Step  35200: train         neg_log_perplexity | -4.12399435
+Step  35200: train          sequence_accuracy |  0.00000000
+Step  35200: train weights_per_batch_per_core |  110.71250153
+Step  35200: eval                    accuracy |  0.21864049
+Step  35200: eval                        loss |  6.18993711
+Step  35200: eval          neg_log_perplexity | -6.18993711
+Step  35200: eval           sequence_accuracy |  0.00000000
+Step  35200: eval  weights_per_batch_per_core |  74.72499847
+Step  35200: Finished evaluation
+
+Step  35400: Ran 200 train steps in 48.19 secs
+Step  35400: Evaluation
+Step  35400: train                   accuracy |  0.28043130
+Step  35400: train                       loss |  4.21101141
+Step  35400: train         neg_log_perplexity | -4.21101141
+Step  35400: train          sequence_accuracy |  0.00000000
+Step  35400: train weights_per_batch_per_core |  85.52500153
+Step  35400: eval                    accuracy |  0.19086701
+Step  35400: eval                        loss |  6.85976791
+Step  35400: eval          neg_log_perplexity | -6.85976791
+Step  35400: eval           sequence_accuracy |  0.00000000
+Step  35400: eval  weights_per_batch_per_core |  62.22500229
+Step  35400: Finished evaluation
+
+Step  35600: Ran 200 train steps in 48.03 secs
+Step  35600: Evaluation
+Step  35600: train                   accuracy |  0.29939729
+Step  35600: train                       loss |  4.03323984
+Step  35600: train         neg_log_perplexity | -4.03323984
+Step  35600: train          sequence_accuracy |  0.00000000
+Step  35600: train weights_per_batch_per_core |  120.59999847
+Step  35600: eval                    accuracy |  0.16128728
+Step  35600: eval                        loss |  7.35342407
+Step  35600: eval          neg_log_perplexity | -7.35342407
+Step  35600: eval           sequence_accuracy |  0.00000000
+Step  35600: eval  weights_per_batch_per_core |  64.05000305
+Step  35600: Finished evaluation
+
+Step  35800: Ran 200 train steps in 49.35 secs
+Step  35800: Evaluation
+Step  35800: train                   accuracy |  0.31051934
+Step  35800: train                       loss |  3.98092270
+Step  35800: train         neg_log_perplexity | -3.98092270
+Step  35800: train          sequence_accuracy |  0.00000000
+Step  35800: train weights_per_batch_per_core |  103.77500153
+Step  35800: eval                    accuracy |  0.12386775
+Step  35800: eval                        loss |  8.28791237
+Step  35800: eval          neg_log_perplexity | -8.28791237
+Step  35800: eval           sequence_accuracy |  0.00000000
+Step  35800: eval  weights_per_batch_per_core |  55.35000229
+Step  35800: Finished evaluation
+
+Step  36000: Ran 200 train steps in 48.89 secs
+Step  36000: Evaluation
+Step  36000: train                   accuracy |  0.30316404
+Step  36000: train                       loss |  4.08750343
+Step  36000: train         neg_log_perplexity | -4.08750343
+Step  36000: train          sequence_accuracy |  0.00000000
+Step  36000: train weights_per_batch_per_core |  94.71250153
+Step  36000: eval                    accuracy |  0.16085812
+Step  36000: eval                        loss |  7.61679554
+Step  36000: eval          neg_log_perplexity | -7.61679554
+Step  36000: eval           sequence_accuracy |  0.00000000
+Step  36000: eval  weights_per_batch_per_core |  63.53750229
+Step  36000: Finished evaluation
+
+Step  36200: Ran 200 train steps in 47.61 secs
+Step  36200: Evaluation
+Step  36200: train                   accuracy |  0.30199596
+Step  36200: train                       loss |  4.03174877
+Step  36200: train         neg_log_perplexity | -4.03174877
+Step  36200: train          sequence_accuracy |  0.00000000
+Step  36200: train weights_per_batch_per_core |  134.90000916
+Step  36200: eval                    accuracy |  0.13759245
+Step  36200: eval                        loss |  8.00843906
+Step  36200: eval          neg_log_perplexity | -8.00843906
+Step  36200: eval           sequence_accuracy |  0.00000000
+Step  36200: eval  weights_per_batch_per_core |  56.90000153
+Step  36200: Finished evaluation
+
+Step  36400: Ran 200 train steps in 48.11 secs
+Step  36400: Evaluation
+Step  36400: train                   accuracy |  0.28599834
+Step  36400: train                       loss |  4.16999578
+Step  36400: train         neg_log_perplexity | -4.16999578
+Step  36400: train          sequence_accuracy |  0.00000000
+Step  36400: train weights_per_batch_per_core |  95.68750000
+Step  36400: eval                    accuracy |  0.10746167
+Step  36400: eval                        loss |  8.65630722
+Step  36400: eval          neg_log_perplexity | -8.65630722
+Step  36400: eval           sequence_accuracy |  0.00000000
+Step  36400: eval  weights_per_batch_per_core |  50.73749924
+Step  36400: Finished evaluation
+
+Step  36600: Ran 200 train steps in 48.29 secs
+Step  36600: Evaluation
+Step  36600: train                   accuracy |  0.30499384
+Step  36600: train                       loss |  4.12471008
+Step  36600: train         neg_log_perplexity | -4.12471008
+Step  36600: train          sequence_accuracy |  0.00000000
+Step  36600: train weights_per_batch_per_core |  94.59999847
+Step  36600: eval                    accuracy |  0.11503270
+Step  36600: eval                        loss |  8.48514462
+Step  36600: eval          neg_log_perplexity | -8.48514462
+Step  36600: eval           sequence_accuracy |  0.00000000
+Step  36600: eval  weights_per_batch_per_core |  58.71250153
+Step  36600: Finished evaluation
+
+Step  36800: Ran 200 train steps in 48.34 secs
+Step  36800: Evaluation
+Step  36800: train                   accuracy |  0.29408333
+Step  36800: train                       loss |  4.11269093
+Step  36800: train         neg_log_perplexity | -4.11269093
+Step  36800: train          sequence_accuracy |  0.00000000
+Step  36800: train weights_per_batch_per_core |  114.82500458
+Step  36800: eval                    accuracy |  0.11295189
+Step  36800: eval                        loss |  8.46582890
+Step  36800: eval          neg_log_perplexity | -8.46582890
+Step  36800: eval           sequence_accuracy |  0.00000000
+Step  36800: eval  weights_per_batch_per_core |  82.11250305
+Step  36800: Finished evaluation
+
+Step  37000: Ran 200 train steps in 47.92 secs
+Step  37000: Evaluation
+Step  37000: train                   accuracy |  0.30553907
+Step  37000: train                       loss |  4.03344727
+Step  37000: train         neg_log_perplexity | -4.03344727
+Step  37000: train          sequence_accuracy |  0.00000000
+Step  37000: train weights_per_batch_per_core |  106.58750153
+Step  37000: eval                    accuracy |  0.12023418
+Step  37000: eval                        loss |  8.42011547
+Step  37000: eval          neg_log_perplexity | -8.42011547
+Step  37000: eval           sequence_accuracy |  0.00000000
+Step  37000: eval  weights_per_batch_per_core |  54.31250000
+Step  37000: Finished evaluation
+
+Step  37200: Ran 200 train steps in 49.45 secs
+Step  37200: Evaluation
+Step  37200: train                   accuracy |  0.28986081
+Step  37200: train                       loss |  4.12850523
+Step  37200: train         neg_log_perplexity | -4.12850523
+Step  37200: train          sequence_accuracy |  0.00000000
+Step  37200: train weights_per_batch_per_core |  112.34999847
+Step  37200: eval                    accuracy |  0.12496715
+Step  37200: eval                        loss |  8.38498211
+Step  37200: eval          neg_log_perplexity | -8.38498211
+Step  37200: eval           sequence_accuracy |  0.00000000
+Step  37200: eval  weights_per_batch_per_core |  58.97500229
+Step  37200: Finished evaluation
+
+Step  37400: Ran 200 train steps in 48.54 secs
+Step  37400: Evaluation
+Step  37400: train                   accuracy |  0.30200091
+Step  37400: train                       loss |  4.07110643
+Step  37400: train         neg_log_perplexity | -4.07110643
+Step  37400: train          sequence_accuracy |  0.00000000
+Step  37400: train weights_per_batch_per_core |  102.06250000
+Step  37400: eval                    accuracy |  0.17180905
+Step  37400: eval                        loss |  7.06961536
+Step  37400: eval          neg_log_perplexity | -7.06961536
+Step  37400: eval           sequence_accuracy |  0.00000000
+Step  37400: eval  weights_per_batch_per_core |  61.22500229
+Step  37400: Finished evaluation
+
+Step  37600: Ran 200 train steps in 48.71 secs
+Step  37600: Evaluation
+Step  37600: train                   accuracy |  0.29814222
+Step  37600: train                       loss |  4.12332869
+Step  37600: train         neg_log_perplexity | -4.12332869
+Step  37600: train          sequence_accuracy |  0.00000000
+Step  37600: train weights_per_batch_per_core |  102.31250000
+Step  37600: eval                    accuracy |  0.15743522
+Step  37600: eval                        loss |  7.81217194
+Step  37600: eval          neg_log_perplexity | -7.81217194
+Step  37600: eval           sequence_accuracy |  0.00000000
+Step  37600: eval  weights_per_batch_per_core |  59.29999924
+Step  37600: Finished evaluation
+
+Step  37800: Ran 200 train steps in 48.59 secs
+Step  37800: Evaluation
+Step  37800: train                   accuracy |  0.31437722
+Step  37800: train                       loss |  4.01218557
+Step  37800: train         neg_log_perplexity | -4.01218557
+Step  37800: train          sequence_accuracy |  0.00000000
+Step  37800: train weights_per_batch_per_core |  112.81250000
+Step  37800: eval                    accuracy |  0.21572874
+Step  37800: eval                        loss |  6.21051216
+Step  37800: eval          neg_log_perplexity | -6.21051216
+Step  37800: eval           sequence_accuracy |  0.00000000
+Step  37800: eval  weights_per_batch_per_core |  70.83750153
+Step  37800: Finished evaluation
+
+Step  38000: Ran 200 train steps in 48.04 secs
+Step  38000: Evaluation
+Step  38000: train                   accuracy |  0.28952751
+Step  38000: train                       loss |  4.14210367
+Step  38000: train         neg_log_perplexity | -4.14210367
+Step  38000: train          sequence_accuracy |  0.00000000
+Step  38000: train weights_per_batch_per_core |  93.65000153
+Step  38000: eval                    accuracy |  0.15295593
+Step  38000: eval                        loss |  7.83039236
+Step  38000: eval          neg_log_perplexity | -7.83039236
+Step  38000: eval           sequence_accuracy |  0.00000000
+Step  38000: eval  weights_per_batch_per_core |  62.16250229
+Step  38000: Finished evaluation
+
+Step  38200: Ran 200 train steps in 48.77 secs
+Step  38200: Evaluation
+Step  38200: train                   accuracy |  0.29391015
+Step  38200: train                       loss |  4.09614849
+Step  38200: train         neg_log_perplexity | -4.09614849
+Step  38200: train          sequence_accuracy |  0.00000000
+Step  38200: train weights_per_batch_per_core |  111.00000000
+Step  38200: eval                    accuracy |  0.19769771
+Step  38200: eval                        loss |  6.73598480
+Step  38200: eval          neg_log_perplexity | -6.73598480
+Step  38200: eval           sequence_accuracy |  0.00000000
+Step  38200: eval  weights_per_batch_per_core |  67.65000153
+Step  38200: Finished evaluation
+
+Step  38400: Ran 200 train steps in 48.41 secs
+Step  38400: Evaluation
+Step  38400: train                   accuracy |  0.28898877
+Step  38400: train                       loss |  4.08793402
+Step  38400: train         neg_log_perplexity | -4.08793402
+Step  38400: train          sequence_accuracy |  0.00000000
+Step  38400: train weights_per_batch_per_core |  93.31250000
+Step  38400: eval                    accuracy |  0.20834176
+Step  38400: eval                        loss |  6.48091078
+Step  38400: eval          neg_log_perplexity | -6.48091078
+Step  38400: eval           sequence_accuracy |  0.00000000
+Step  38400: eval  weights_per_batch_per_core |  63.75000000
+Step  38400: Finished evaluation
+
+Step  38600: Ran 200 train steps in 48.07 secs
+Step  38600: Evaluation
+Step  38600: train                   accuracy |  0.30199453
+Step  38600: train                       loss |  4.11400604
+Step  38600: train         neg_log_perplexity | -4.11400604
+Step  38600: train          sequence_accuracy |  0.00000000
+Step  38600: train weights_per_batch_per_core |  104.66249847
+Step  38600: eval                    accuracy |  0.19267534
+Step  38600: eval                        loss |  6.69576216
+Step  38600: eval          neg_log_perplexity | -6.69576216
+Step  38600: eval           sequence_accuracy |  0.00000000
+Step  38600: eval  weights_per_batch_per_core |  68.61250305
+Step  38600: Finished evaluation
+
+Step  38800: Ran 200 train steps in 48.55 secs
+Step  38800: Evaluation
+Step  38800: train                   accuracy |  0.30157226
+Step  38800: train                       loss |  4.12360144
+Step  38800: train         neg_log_perplexity | -4.12360144
+Step  38800: train          sequence_accuracy |  0.00000000
+Step  38800: train weights_per_batch_per_core |  97.33750153
+Step  38800: eval                    accuracy |  0.21648872
+Step  38800: eval                        loss |  6.25132322
+Step  38800: eval          neg_log_perplexity | -6.25132322
+Step  38800: eval           sequence_accuracy |  0.00000000
+Step  38800: eval  weights_per_batch_per_core |  70.56250000
+Step  38800: Finished evaluation
+
+Step  39000: Ran 200 train steps in 48.29 secs
+Step  39000: Evaluation
+Step  39000: train                   accuracy |  0.29687086
+Step  39000: train                       loss |  4.14178467
+Step  39000: train         neg_log_perplexity | -4.14178467
+Step  39000: train          sequence_accuracy |  0.00000000
+Step  39000: train weights_per_batch_per_core |  86.20000458
+Step  39000: eval                    accuracy |  0.22013703
+Step  39000: eval                        loss |  6.20903015
+Step  39000: eval          neg_log_perplexity | -6.20903015
+Step  39000: eval           sequence_accuracy |  0.00000000
+Step  39000: eval  weights_per_batch_per_core |  69.28749847
+Step  39000: Finished evaluation
+
+Step  39200: Ran 200 train steps in 48.12 secs
+Step  39200: Evaluation
+Step  39200: train                   accuracy |  0.29920048
+Step  39200: train                       loss |  3.99489760
+Step  39200: train         neg_log_perplexity | -3.99489760
+Step  39200: train          sequence_accuracy |  0.00000000
+Step  39200: train weights_per_batch_per_core |  101.38750458
+Step  39200: eval                    accuracy |  0.22628324
+Step  39200: eval                        loss |  6.02963638
+Step  39200: eval          neg_log_perplexity | -6.02963638
+Step  39200: eval           sequence_accuracy |  0.00000000
+Step  39200: eval  weights_per_batch_per_core |  64.51250458
+Step  39200: Finished evaluation
+
+Step  39400: Ran 200 train steps in 48.42 secs
+Step  39400: Evaluation
+Step  39400: train                   accuracy |  0.28873754
+Step  39400: train                       loss |  4.19570827
+Step  39400: train         neg_log_perplexity | -4.19570827
+Step  39400: train          sequence_accuracy |  0.00000000
+Step  39400: train weights_per_batch_per_core |  125.46250153
+Step  39400: eval                    accuracy |  0.24762356
+Step  39400: eval                        loss |  5.73584938
+Step  39400: eval          neg_log_perplexity | -5.73584938
+Step  39400: eval           sequence_accuracy |  0.00000000
+Step  39400: eval  weights_per_batch_per_core |  70.22499847
+Step  39400: Finished evaluation
+
+Step  39600: Ran 200 train steps in 48.18 secs
+Step  39600: Evaluation
+Step  39600: train                   accuracy |  0.29991338
+Step  39600: train                       loss |  4.07094955
+Step  39600: train         neg_log_perplexity | -4.07094955
+Step  39600: train          sequence_accuracy |  0.00000000
+Step  39600: train weights_per_batch_per_core |  107.45000458
+Step  39600: eval                    accuracy |  0.25304097
+Step  39600: eval                        loss |  5.63888884
+Step  39600: eval          neg_log_perplexity | -5.63888884
+Step  39600: eval           sequence_accuracy |  0.00000000
+Step  39600: eval  weights_per_batch_per_core |  73.48750305
+Step  39600: Finished evaluation
+
+Step  39800: Ran 200 train steps in 48.38 secs
+Step  39800: Evaluation
+Step  39800: train                   accuracy |  0.29965547
+Step  39800: train                       loss |  4.08217096
+Step  39800: train         neg_log_perplexity | -4.08217096
+Step  39800: train          sequence_accuracy |  0.00000000
+Step  39800: train weights_per_batch_per_core |  109.83750153
+Step  39800: eval                    accuracy |  0.26278135
+Step  39800: eval                        loss |  5.10120201
+Step  39800: eval          neg_log_perplexity | -5.10120201
+Step  39800: eval           sequence_accuracy |  0.00000000
+Step  39800: eval  weights_per_batch_per_core |  78.62500000
+Step  39800: Finished evaluation
+
+Step  40000: Ran 200 train steps in 48.53 secs
+Step  40000: Evaluation
+Step  40000: train                   accuracy |  0.30517852
+Step  40000: train                       loss |  4.08531713
+Step  40000: train         neg_log_perplexity | -4.08531713
+Step  40000: train          sequence_accuracy |  0.00000000
+Step  40000: train weights_per_batch_per_core |  101.81250000
+Step  40000: eval                    accuracy |  0.25496385
+Step  40000: eval                        loss |  5.46406460
+Step  40000: eval          neg_log_perplexity | -5.46406460
+Step  40000: eval           sequence_accuracy |  0.00000000
+Step  40000: eval  weights_per_batch_per_core |  73.88750458
+Step  40000: Finished evaluation
