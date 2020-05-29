@@ -20,4 +20,3 @@ def moving_average(numbers, window_size=3):
         moving_averages.append(window_average)
         i += 1
     return moving_averages
-
