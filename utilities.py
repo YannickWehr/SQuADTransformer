@@ -1,4 +1,6 @@
 import matplotlib.pyplot as plt
+import tensorflow_datasets as tfds
+from sentencepiece import SentencePieceProcessor
 
 def accuracy_graph(path, start=2):
     f = open(path)
@@ -21,9 +23,16 @@ def moving_average(numbers, window_size=3):
         i += 1
     return moving_averages
 
+def graph():
+    logs = ['./logs/squad_ed.txt']
+    start = 2
+    for log in logs:
+        plt.plot(moving_average(accuracy_graph(log, start=start)))
+    plt.show()
 
-reformer = moving_average(accuracy_graph("./rfull.txt"))
-reformer_eval = moving_average(accuracy_graph("./rfull.txt", start=7))
-plt.plot(reformer)
-plt.plot(reformer_eval)
-plt.show()
+graph()
+
+#ds = tfds.load('cnn_dailymail', split='train')
+#ds = ds.take(1)
+#for example in tfds.as_numpy(ds):
+#    input(example)
